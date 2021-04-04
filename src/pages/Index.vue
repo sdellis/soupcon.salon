@@ -15,7 +15,7 @@
     <p>
       Soupçon Salon will reopen at 19 N. Union Street (formerly Manon) this summer as a not-for-profit
       Beneficiary Society (501c8). Please read more about how it works in the <g-link to="/about/">How it Works</g-link> section. If you
-      are ready to get involved, please join our mailing list below.
+      are ready to hear more, please join our mailing list below.
     </p>
 
   </Layout>
@@ -24,7 +24,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Soupçon Salon'
   }
 }
 </script>
