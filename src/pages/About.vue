@@ -21,7 +21,10 @@
     </section>
     <section id="why">
       <h2>Why are we doing this?</h2>
-      <blockquote>"We must create a system or be enslaved by another's." - William Blake</blockquote>
+      <blockquote>
+        "The role of the artist is to make the revolution irresistible."<br/>
+        -- Toni Cade Bambara
+      </blockquote>
       <p>
         We are all tired of Capitalism. The pandemic has amplified its failings, and has more
         clearly revealed its related structures of inequity and colonial artifacts. But what is the best,
@@ -32,8 +35,8 @@
         adjust the dials along the way.
       </p>
       <p>
-        We value collaboration, autonomy, and
-        accountability. We work to uplift and center the most vulnerable among us.
+        We value collaboration, autonomy, accountability, and joy.
+        We work to uplift and center the most vulnerable among us.
         Consistent government failings and pandemic-imposed isolation, have exacerbated the
         divisions among us. We want to see this end. There
         is no savior that will swoop in and make things better. We have only ourselves
@@ -105,10 +108,6 @@
     </section>
     <section id="involvement">
       <h2>What am I signing up for?</h2>
-      <blockquote>
-        "The role of the artist is to make the revolution irresistible."<br/>
-        -- Toni Cade Bambara
-      </blockquote>
       <p>We specifically call our people in our society <em>partners,</em> not <em>members</em> for two reasons. First,
         <em>members</em> sounds exclusive and passive. Soupçon is inclusive and expects partners to be
         active participants in the society they want to see. In other words, partners are
