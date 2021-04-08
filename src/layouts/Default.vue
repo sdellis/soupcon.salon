@@ -54,6 +54,7 @@ query {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&display=swap');
+
 html {
   height: 100%;
   scroll-behavior: smooth;
@@ -97,10 +98,10 @@ a {
 header {
   grid-area: header;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: -20px;
-  height: 80px;
+  height: auto;
   background-color: #f5f5f5;
   color: #111;
   padding: 2rem;
@@ -108,9 +109,10 @@ header {
 
 .subheader {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  height: 80px;
+  height: auto;
   border-bottom: 1px solid #efefef;
   margin-right: 2rem;
   margin-left: 2rem;
@@ -148,21 +150,87 @@ footer {
 main {
   /* min-height: 100%; */
   display: grid;
-  /* padding: 20px; */
-  /* grid-template-columns: auto 600px auto; */
-  /* grid-template-columns: [full-start] minmax(0, 1fr) [article-start] minmax(0, 700px) [article-end] minmax(0, 1fr) [full-end]; */
-  grid-template-columns: 250px auto 250px;
+  grid-template-columns: 0px auto 0px;
   grid-template-rows: auto 1fr auto;
-  grid-template-areas: "sidebar-1 article sidebar-2"
+  grid-template-areas: "sidebar-2" "article" "sidebar-1";
+  grid-gap: 1rem;
 }
+
+/* @media screen and (min-width: 600px) {
+  main {
+    grid-template-columns: 0px auto 250px;
+    grid-template-areas: "sidebar-1 article sidebar-2";
+  }
+  .sidebar-right {
+    display: block;
+  }
+} */
+
+.sidebar-right {
+  grid-area: sidebar-2;
+  padding-right: 20px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  box-sizing: border-box;
+  display: none;
+}
+
 .sidebar-left {
   grid-area: sidebar-1;
   padding-left: 20px;
+  display: none;
 }
 
 article {
   grid-area: article;
   margin-top: -3rem;
+  padding: 2rem;
+  grid-column: 1 / span 3;
+}
+
+.media {
+  grid-area: media;
+  height:auto;
+  grid-column: 1 / span 3;
+  grid-row: 4 / 5;
+}
+
+@media screen and (min-width: 900px) {
+  header {
+    margin-bottom: -20px;
+    height: 80px;
+  }
+  .welcome {
+    max-width: 500px;
+    padding: 2rem;
+  }
+  .subheader {
+    height: 80px;
+  }
+  main>article {
+      grid-column: article;
+  }
+  article {
+    padding: 0;
+    grid-column: 2 / span 1;
+  }
+  media {
+    padding: 0;
+    grid-column: 2 / span 1;
+  }
+  .sidebar-right {
+    display: block;
+  }
+
+  .sidebar-left {
+    display: block;
+  }
+  main {
+    grid-template-columns: 250px auto 250px;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "sidebar-1 article sidebar-2";
+  }
 }
 
 .full-width {
@@ -171,30 +239,10 @@ article {
   grid-column: 1 / span 3;
   grid-row: 1 / 2;
 }
-.media {
-  grid-area: media;
-  height:auto;
-  grid-column: 1 / span 3;
-  grid-row: 4 / 5;
-}
-
-/* Article is default column for container */
-main>article {
-    grid-column: article;
-}
 
 /* Full is using for full width out of the container */
 main>div.full-width {
     grid-column: full;
-}
-
-.sidebar-right {
-  grid-area: sidebar-2;
-  position: sticky;
-  top: 0;
-  height: 100vh;
-  box-sizing: border-box;
-  padding-right: 20px;
 }
 
 /* Scrollspy nav */

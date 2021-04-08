@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <article style="grid-column: 1 / span 2;">
-      <div style="max-width: 500px; padding: 2rem;">
+      <div class="welcome">
       <h1>Welcome</h1>
       <p>The idea is a simple one:</p>
       <p>To gather the entire community to share food, tell stories,
