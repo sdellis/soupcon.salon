@@ -2,11 +2,13 @@
   <Layout>
     <article style="grid-column: 1 / span 2;">
       <div class="welcome">
-      <h1>Welcome</h1>
-      <p>The idea is a simple one:</p>
-      <p>To gather the entire community to share food, tell stories,
-        make art, and fill the air with songs. We support each other and
-        work on excellence together. We are a radical experiment in creating utopia.</p>
+      <h1>The idea is simple:</h1>
+      <p>Build community and promote healing by gathering together
+        to share food, tell stories, make art, and fill the air with music.
+        Work towards collective excellence, and facilitate a voluntary reciprocal
+        exchange of resources for mutual benefit. This is a radical experiment
+        in creating utopia.</p>
+        <p>You are hereby invited.</p>
       </div>
     </article>
 

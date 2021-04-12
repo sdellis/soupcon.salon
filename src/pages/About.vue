@@ -12,11 +12,28 @@
         <!-- Learn how to use images here: https://gridsome.org/docs/images -->
         <g-image alt="Soupçon Salon" src="~/soupcon.png" width="600px" fit="contain" />
       <!-- </div> -->
-      <p>We are approaching Soupçon Salon as a concept that may not be familiar under
-      dominant paradigm, in which people are pit against each other in competition. Instead of
-      creating a hierarchical system, this collective is a collaborative and
-      egalitarian experiment. We are confident it will work, but there are some core concepts and
-      values that are important to understand first.
+      <p>We are approaching Soupçon Salon as an antidote to the dominant paradigm,
+        in which people are pitted against each other in competition. We believe
+        that our liberation is rooted in a community where all people are valued
+        equally. So instead of upholding a hierarchical model of operation, this
+        collective is a collaborative and egalitarian experiment that you are
+        invited to join. There are some core concepts and guiding values at the
+        foundation of this project, some taken directly from adrienne marie brown’s
+        <em>Emergent Strategy</em>.
+        <ul>
+          <li>Capitalism has failed us.</li>
+          <li>Liberation is rooted in community care.</li>
+          <li>Making art is a pathway to fulfillment and freedom.</li>
+          <li>Small is good, small is all. (The large is a reflection of the small.)</li>
+          <li>Change is constant, be like water.</li>
+          <li>There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.</li>
+          <li>Never a failure, always a lesson.</li>
+          <li>Trust the people. If you trust people, they become trustworthy.</li>
+          <li>Move at the speed of trust.</li>
+          <li>Critical connections over critical mass -- build the resilience by building the relationships.</li>
+          <li>Less prep, more presence.</li>
+          <li>What you pay attention to grows.</li>
+        </ul>
       </p>
     </section>
     <section id="why">
@@ -26,26 +43,14 @@
         -- Toni Cade Bambara
       </blockquote>
       <p>
-        We are all tired of Capitalism. The pandemic has amplified its failings, and has more
-        clearly revealed its related structures of inequity and colonial artifacts. But what is the best,
-        fairest alternative? We will find out. Soupçon allows us to experiment with alternative ways
-        of living and interacting. This is a social experiment that aims to prove that more
-        compassionate societies are not only possible, but can thrive. This is not to say that
-        we will get everything right, and we will most certainly need to
-        adjust the dials along the way.
+        We are all tired of Capitalism. The pandemic has amplified its failings, and has more clearly revealed its related structures of inequity and colonial artifacts. But what is the best, fairest alternative? We will find out. Soupçon allows us to experiment with alternative ways of living and interacting. This is a social experiment that aims to prove that more compassionate societies are not only possible, but can thrive. This is not to say that we will get everything right, and we will most certainly need to adjust the dials along the way.
       </p>
       <p>
-        We value collaboration, autonomy, accountability, and joy.
-        We work to uplift and center the most vulnerable among us.
-        Consistent government failings and pandemic-imposed isolation, have exacerbated the
-        divisions among us. We want to see this end. There
-        is no savior that will swoop in and make things better. We have only ourselves
-        and we embark on this journey out of love for our families, our friends, and our community.
-        Soupçon is a city-wide commune that will teach us to work together, in harmony.
+        We value collaboration, accountability, diversity, and joy. We work to uplift and center the most vulnerable among us. Consistent government failings and pandemic-imposed isolation have exacerbated the divisions among us. We want to see this end. There is no savior that will swoop in and make things better. We have only ourselves and we embark on this journey out of love for our families, our friends, and our community. Soupçon is a city-wide commune that will teach us to work together, in harmony.
       </p>
     </section>
     <section id="mutual_aid">
-      <h2>What is Mutual Aid?</h2>
+      <h2>Mutual Aid</h2>
       <p>
       Luckily, we do have some promising guides as we set out to create a better society.
       In 2020, Dean Spade published
@@ -71,47 +76,23 @@
     </section>
     <section id="beneficiary_society">
       <h2>What is a Beneficiary Society?</h2>
-      <p>A Beneficiary Society is an organization that falls under Internal Revenue Code Section 501(c)(8).
-      Most people think of not-for-profits as 501(c)(3) charitable organizations, but there
-      are many nonprofits that have different strategies for helping people. This is important distinction
-      because Soupçon Salon is not a "charitable" organization.
+      <p>Soupcon Salon is a Beneficiary Society that falls under Internal Revenue Code Section 501(c)(8). Most people think of not-for-profits as 501(c)(3) charitable organizations, but there are many nonprofits that have different strategies for helping people. This is an important distinction because Soupçon Salon is not a "charitable" organization.
       </p>
-      <p>Charity, aid, relief, and social services are terms that usually refer to
-        rich people or the government making decisions about the provision of some kind of support
-        for poor people -- that is, rich people or the government deciding who gets
-        the help, and what strings are attached. You can be sure that help like that is
-        not designed to get to the root causes of poverty and violence. It's designed to
-        help improve the image of the elites who are funding it and put a tiny, inadiquate
-        Band-Aid on the massive social wound that their greed creates. No, Soupçon is not a charity.
+      <p>Charity, aid, relief, and social services are terms that usually refer to rich people or the government making decisions about the provision of some kind of support for poor people -- that is, rich people or the government deciding who gets the help, and what strings are attached. You can be sure that help like that is not designed to get to the root causes of poverty and violence. It's designed to help improve the image of the elites who are funding it and put a tiny, inadequate bandage on the massive social wound that their greed creates. No, Soupçon is not a charity.
       </p>
       <p>What is it then?</p>
       <p>
-        Soupçon Salon is a Beneficiary Society that provides a wide
-        array of benefits to its partners. Beneficiary Societies, sometimes called
-        "Fraternal Orders," began in the late 19th century
-        as a way to provide benefits like insurance, money for burial services, and bulk discount purchasing to members.
-        Some examples today include The Loyal Order of Moose, The Masons, police unions, and the Boy Scouts and
-        Girl Scouts of America. However, these organizations have exclusionary
-        membership practices and very different values. In contrast, Soupçon is a non-exclusionary society,
-        meaning anyone is allowed to join.
-        The only requirement is that you must agree with our core principle, which is:
-        <blockquote>"We unite people with the common goal of working on collective
-          excellence for all our partners and a voluntary reciprocal exchange of
-          resources and services for mutual benefit."</blockquote>
+        Soupçon Salon is a Beneficiary Society, which simply means it operates with a uniting purpose and provides benefits to its partners. Historically Beneficiary Societies, sometimes called "Fraternal Orders," have provided benefits like insurance, money for burial services, and bulk discount purchasing to their members. Some examples today include The Loyal Order of Moose, The Masons, police unions, and the Boy Scouts and Girl Scouts of America. However, these organizations have exclusionary membership practices and very different values. In contrast, Soupçon is a non-exclusionary society, meaning anyone is allowed to join. Mutual aid is the framework in which we seek to define and offer our partner benefits. The only requirement for partnership is that you must agree with our core principle, which is:
+        <blockquote>"We unite people with the common goals of working on collective excellence and facilitating a voluntary reciprocal exchange of resources and services for mutual benefit."</blockquote>
       </p>
       <p>
-        We may be getting ahead of ourselves, but one notable facet of Beneficiary Societies is that
-        they operate under the "Lodge System". This means if our experiment is successful, we can
-        easily replicate it in other municipalities, and connect our partners to those who live elsewhere
-        creating solidarity and relationships among other communities beyond our own.
+        We may be getting ahead of ourselves, but one notable facet of Beneficiary Societies is that they can be replicated in other communities, further expanding our ability to
+        connect and share.
       </p>
     </section>
     <section id="involvement">
-      <h2>What am I signing up for?</h2>
-      <p>We specifically call our people in our society <em>partners,</em> not <em>members</em> for two reasons. First,
-        <em>members</em> sounds exclusive and passive. Soupçon is inclusive and expects partners to be
-        active participants in the society they want to see. In other words, partners are
-        expected to get their hands dirty once in a while. Utopia is hard work, but we can do it together.
+      <h2>Partnership</h2>
+      <p>We specifically call people in our society <em>partners,</em> not <em>members</em> for two reasons. First, the word <em>“member”</em> sounds exclusive and passive. Soupçon is inclusive and expects partners to be active participants in the society they want to see. In other words, partners are expected to get their hands dirty once in a while. Working toward utopia is hard work, but we can do it together.
       </p>
     </section>
     <section id="involvement--partner-benefits">
@@ -127,17 +108,12 @@
       </p>
         <h4>Inclusive First</h4>
         <p>
-        Not that we see it as a "benefit," since inclusivity should simply be the way things are.
-        We design our systems of living with a commitment to including all. We support
-        and center our most vulnerable and our most oppressed members of society. We
-        support a vegan and compassionate vegetarian menu.
+          Not that we see it as a "benefit," since inclusivity should simply be the way things are. We design our systems of living with a commitment to including all. We work together to dismantle internalized systems of oppression and keep each other accountable. We support and center our most vulnerable and our most oppressed members of the community and society at large. We support a vegan and compassionate vegetarian menu to fight climate change and to reduce suffering in the world.
         </p>
         <h4>The Cafe</h4>
         <p>
-        Partners are able to dine, with their guests, in the beautiful cafe. This is a chill space.
-        All are welcome. The music is local. The menu is local, vegetarian &amp; vegan, and a fraction of
-        the price for an equivalent meal elsewhere in town. The outdoor garden
-        is a relaxing sanctuary with a rustic fountain, flowers, and fresh produce for the kitchen.
+          Partners are able to dine, with their guests, in the beautiful cafe. This is a chill space. All are welcome. The music is local. The menu is local, vegetarian & vegan, and a fraction of the price for an equivalent meal elsewhere in town. The outdoor garden is a relaxing sanctuary with a rustic fountain, flowers, and fresh produce for the kitchen. With the exception of one event  reservation per year for Patron Partners, event and cafe seating is first-come, first-serve.
+
         </p>
         <h4>Chef in Residence Program</h4>
         <p>Soupçon aims too uplift all local aspiring artists and the culinary arts are not an exception.
@@ -185,7 +161,7 @@
         <p></p>
         <p>
         We have a PA and a space large enough for a 3-4 piece band
-        or 4 musicians if we want to reach maximum capacity of 35. And of course,
+        or 4 musicians if we want to reach the maximum capacity of 35. And of course,
         there is always open mic night.
         </p>
         <h4>Guidance and Leadership</h4>
@@ -222,9 +198,9 @@
       <p>
       Patron Partners benefits:
       <ul>
-        <li>Up to four partnerships in your "family".</li>
+        <li>Reservation for two at one event per year. (We otherwise do not take reservations.)</li>
         <li>Name recognition. (optional)</li>
-        <li>A "thank you" gift</li>
+        <li>One complimentary meal per month.</li>
       </ul>
       </p>
     </section>
@@ -238,8 +214,7 @@
   <section id="get-involved">
    <h2>Get Involved</h2>
       <p>
-        If you are interested in being a part of this as a partner (at any level)
-        as we are getting it off the ground? If the answer is yes, we are also asking
+        Are you interested in being a part of this as a partner (at any level) as we are getting it off the ground? If the answer is yes, we are also asking
         for your feedback and help in guiding this project. There is no obligation at
         this point, but early involvement will help us get this off the ground. Please
         subscribe to our mailing list below if you are interested in learning more and possibly
@@ -253,9 +228,9 @@
         <ol>
           <li><a href="#how_it_works">How It Works</a></li>
           <li><a href="#why">Why Are We Doing This?</a></li>
-          <li><a href="#mutual_aid">What Is Mutual Aid?</a></li>
+          <li><a href="#mutual_aid">Mutual Aid</a></li>
           <li><a href="#beneficiary_society">What Is a Beneficiary Society?</a>
-          <li><a href="#involvement">What Am I Signing Up For?</a>
+          <li><a href="#involvement">Partnership</a>
             <ul>
               <li class=""><a href="#involvement--partner-benefits">Partner Benefits</a></li>
               <li class=""><a href="#involvement--patron-partner">Patron Partners</a></li>

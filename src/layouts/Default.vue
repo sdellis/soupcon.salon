@@ -71,6 +71,7 @@ body {
 }
 h1 {
   font-family: "Averia Serif Libre",Georgia,Times,"Times New Roman",serif;
+  margin-bottom: 1.25rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
