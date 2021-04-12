@@ -92,7 +92,7 @@
     </section>
     <section id="involvement">
       <h2>Partnership</h2>
-      <p>We specifically call people in our society <em>partners,</em> not <em>members</em> for two reasons. First, the word <em>“member”</em> sounds exclusive and passive. Soupçon is inclusive and expects partners to be active participants in the society they want to see. In other words, partners are expected to get their hands dirty once in a while. Working toward utopia is hard work, but we can do it together.
+      <p>We specifically call people in our society <em>partners,</em> not <em>members,</em> for two reasons. The word <em>“member”</em> sounds both too exclusive and too passive. Soupçon is inclusive and partners are expected to be active participants in the creating the society they want to see. In other words, partners are expected to get their hands dirty once in a while. Working toward utopia is hard work, but we can do it together.
       </p>
     </section>
     <section id="involvement--partner-benefits">
