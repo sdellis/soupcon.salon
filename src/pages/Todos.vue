@@ -2,6 +2,8 @@
   <Layout>
     <div class="container" style="grid-column: 2 / span 1;">
       <h1>How to Help</h1>
+      <p>Welcome to our "living" to-do list. Partners are able to ask the community for assistance with projects, fixing things, 
+        or potential bartering arrangements.</p>
       <div v-for="task in $page.tasks.edges" :key="task.id" class="task d-flex">
         <div class="task__img"
              :style="{ 'background-image': 'url(' + task.node.image + ')' }"></div>

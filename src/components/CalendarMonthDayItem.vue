@@ -7,8 +7,8 @@
     }"
   >
     <span>{{ label }}</span>
-    <ul>
-        <li v-for="event in events">
+    <ul class="cal-events">
+        <li v-for="event in events" v-bind:key="event.title">
             <a class="event" :href="event.path">{{event.title}}</a>
         </li>
     </ul>
@@ -72,11 +72,12 @@ export default {
 
 .calendar-day > ul {
   display: block;
-  justify-content: left;
-  align-items: left;
+  justify-content: center;
+  align-items: center;
   position: absolute;
-  left: 0px;
+  right: 20px;
   bottom: 20px;
+  font-size: 14px;
 }
 
 .calendar-day--not-current {
