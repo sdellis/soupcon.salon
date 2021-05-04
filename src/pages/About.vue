@@ -207,8 +207,8 @@
     <section id="involvement--partner-skills">
    <h3>How Can I Help?</h3>
     <p>We have no shortage of work to make this happen. No one partner should be
-      taking on a majority of the work. To make delegating easier, we have a living
-      to-do list (coming soon!) you can browse to see if any tasks meet your skillset.
+      taking on a majority of the work. To make delegating easier, we have a <g-link to="/todos/">living
+      to-do list</g-link> you can browse to see if any tasks meet your skillset.
     </p>
   </section>
   <section id="get-involved">

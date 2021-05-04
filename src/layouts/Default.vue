@@ -10,7 +10,9 @@
         </div>
           <nav class="nav">
             <g-link class="nav__link" to="/">Home</g-link>
+            <g-link class="nav__link" to="/calendar/">Calendar</g-link>
             <g-link class="nav__link" to="/about/">How it Works</g-link>
+            <g-link class="nav__link" to="/todos/">How to Help</g-link>
           </nav>
         </header>
         <div class="subheader">
