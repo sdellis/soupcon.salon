@@ -8,7 +8,7 @@ abstract: "[Those Looks](https://thoselooks.bandcamp.com/) describe their music
   Ellis (drums) keep a driving steady foundation to Those Looks' wispy dream-pop
   vibe, perfect for your beach-bound playlist or a Monday night at Soupçon
   Salon."
-image: /uploads/trucksluts-small.png
+image: /uploads/trucksluts.jpg
 author: Shaun Ellis
 date: 2021-06-28T23:00:00.000Z
 ---
