@@ -1,5 +1,5 @@
 ---
-title: DJ Dusty Oat
+title: DJ Dusty Oat - Early New Wave / Proto-Goth / 80s
 performer: DJ Dusty Oat
 abstract: Be there.
 image: /uploads/djdustyoat.png
