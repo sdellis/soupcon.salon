@@ -10,7 +10,7 @@ abstract: "[Those Looks](https://thoselooks.bandcamp.com/) describe their music
   Salon."
 image: /uploads/trucksluts.jpg
 author: Shaun Ellis
-date: 2021-06-28T23:00:00.000Z
+date: 2021-07-19T23:00:00.000Z
 ---
 [Those Looks](https://thoselooks.bandcamp.com/) describe their music as "velvet wave slow jams from the wilds of NJ."  The washed out reverb of Sylvia Barrantes' lead guitar lends a surfy other-worldly dimension to the clear bell of Kelly Bolding's lead vocals. Randall Newman (bass) and Shaun Ellis (drums) keep a driving rhythmic foundation to Those Looks' wispy dream-pop vibe. Those Looks could pass as a lovechild of Chris Isaac and Angel Olsen, perfect for your beach-bound playlist or a summer night at Soupçon Salon. 
 
