@@ -42,6 +42,12 @@ export default {
 };
 </script>
 <style>
+
+ol, li {
+  margin-left: 1em;
+  list-style: square;
+}
+
 .container--event {
   margin-top: -140px;
   background-color: #fff;
