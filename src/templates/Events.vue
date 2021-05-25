@@ -43,7 +43,7 @@ export default {
 </script>
 <style>
 
-ol, li {
+.eventPage ol, .eventPage li {
   margin-left: 1em;
   list-style: square;
 }
