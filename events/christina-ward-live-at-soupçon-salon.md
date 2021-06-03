@@ -17,3 +17,34 @@ There is only one word that can describe the music of [Christina Ward](https:/
 Ward has recently signed to Mint 400 records, and released a four-song EP in April. According to [WXPN's The Key](https://thekey.xpn.org/2021/04/19/christina-ward-rent/), "Ward leans on a mystical vocal style that’s a captivating element of each track, developing from distant layered whispers like on “Ghost” to clearer harmonies on the synth-driven “Nightmare.” There is a pointed theme of pondering loneliness with lines that contemplate connection on the intimate “Wake Up” where Ward sings “I had dreams that you were with me.”
 
 I have dreams that you are with me, and Christina, and everyone else on June 7th.
+
+*Doors open at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
+
+- - -
+
+# Prix Fixe Menu - $25
+
+by [Baked by the River](https://bakedbytheriver.com/)<br/>
+*Note: All menu items can be prepared vegan.*\
+
+**Fresh-baked Bread**<br/>
+w/ herbed butter or olive oil
+
+*Entrée*<br/>
+**Sweet Potato and Feta Mac and Cheese** (Gluten free Optional)<br/>
+*Microdose Infusion Optional*
+
+*Dessert*<br/>
+**Strawberry Cupcakes with Pistachio Buttercream**<br/>\
+*Gifted Microdose Edible from the Chef*
+<br/>
+
+- - -
+
+Limited seating. Please RSVP to shaun@sdellis.com to guarantee a seat.
+
+## Location
+
+Soupçon Salon<br/>
+19 North Union St.<br/>
+Lambertville, NJ
