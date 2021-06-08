@@ -1,5 +1,5 @@
 ---
-title: Get Baked Cannabis Baking Tutorial
+title: "Get Baked Cannabis Baking Tutorial: Cannabis Gummies"
 performer: Baked by the River
 abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
   Tutorials! We’ll be covering all the basics you’ll need to know to make and
@@ -34,3 +34,9 @@ Each week we will also have a cannabis topic that we'll lead an open discussion 
 7/22 Cannabis Gummies
 
 7/29 Cannabis Lube/Suppositories
+
+
+
+The cover charge for each course is $25 cash. 
+
+If you are unable to pay the cover charge but would still like to join, please let us know and we can reduce the fee on an as needed basis.
