@@ -1,5 +1,5 @@
 ---
-title: "Get Baked Cannabis Baking Tutorial: Cannabis Tincture and FECO"
+title: "Get Baked Tutorial: Cannabis Tincture and FECO"
 performer: Baked by the River
 abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
   Tutorials! We’ll be covering all the basics you’ll need to know to make and
