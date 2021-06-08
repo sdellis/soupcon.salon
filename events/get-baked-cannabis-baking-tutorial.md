@@ -1,5 +1,5 @@
 ---
-title: "Get Baked Cannabis Baking Tutorial: Cannabis Infusion Basics"
+title: Get Baked Cannabis Baking Tutorial
 performer: Baked by the River
 abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
   Tutorials! We’ll be covering all the basics you’ll need to know to make and
