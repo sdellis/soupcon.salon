@@ -5,7 +5,7 @@ abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
   Tutorials! We’ll be covering all the basics you’ll need to know to make and
   enjoy your own cannabis infused edibles. Events are BYOB (Bring Your Own Bud)
   for anyone who would like to bake along.
-image: /uploads/img_20201022_195537.jpg
+image: /uploads/img_20201022_195525.jpg
 author: Jesse Marie
 date: 2021-06-24T23:00:00.000Z
 ---
