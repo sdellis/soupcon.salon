@@ -1,5 +1,5 @@
 ---
-title: The Highlands Live @ Soupçon Salon
+title: The Highlands - Live @ Soupçon Salon
 performer: The Highlands
 abstract: |-
   Dijon- Tabla, Handpans, Vox, live looping
@@ -11,7 +11,7 @@ date: 2021-06-14T23:00:51.377Z
 Dijon - Tabla, Handpans, Vox, live looping
 (special guest accompanist to be announced)
 
-The Highlands is a project that defies words. Dijon uses percussion, voice, and loops to create spaces that catalyze awareness. The blurred lines between art, music, and dance force the listener to experience the compositions directly, without preconceptions. Dijon describes the music as surrealistic, or "Sur Realisme." The result is both hyperreal and unfamiliar to the audience, putting all  in a state of beginner's mind among the novelty.
+The Highlands is a local project by skilled tabla player, Dijon, who uses percussion, voice, and loops to create spaces that catalyze awareness. The blurred lines between performance art, music, and dance strips away preconceptions and allows the listener to experience the compositions directly. The result is an eclectic mix of styles, both hyperreal and unfamiliar to the audience, putting the room into a state of beginner's mind amidst the novelty. Dijon describes the music as surrealistic, or "Sur Realisme." But in the end, The Highlands defies all words -- and that is the point.
 
 - - -
 
