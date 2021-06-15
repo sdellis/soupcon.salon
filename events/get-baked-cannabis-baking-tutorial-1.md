@@ -36,7 +36,6 @@ Each week we will also have a cannabis topic that we'll lead an open discussion 
 7/29 Cannabis Lube/Suppositories
 
 
-
-The cover charge for each course is $25 cash. 
+The cover charge for each course is $25 cash. [Reserve your seat in advance on the Baked by the River website](https://bakedbytheriver.com/get-baked).
 
 If you are unable to pay the cover charge but would still like to join, please let us know and we can reduce the fee on an as needed basis.
