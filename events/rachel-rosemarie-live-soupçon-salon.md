@@ -12,7 +12,7 @@ Rachel Rosemarie crafts deeply poetic songs that work through the complexities o
 
 - - -
 
-*Doors open at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
+*Seating at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
 
 - - -
 
