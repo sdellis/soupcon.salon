@@ -1,19 +1,26 @@
 ---
-title: Those Looks - Live at Soupçon Salon
-performer: Those Looks
-abstract: "[Those Looks](https://thoselooks.bandcamp.com/) describe their music
-  as \"velvet wave slow jams from the wilds of NJ.\"  The washed out reverb of
-  Sylvia Barrantes' lead guitar lends a surfy other-worldly dimension to the
-  clear bell of Kelly Bolding's lead vocals. Randall Newman (bass) and Shaun
-  Ellis (drums) keep a driving steady foundation to Those Looks' wispy dream-pop
-  vibe, perfect for your beach-bound playlist or a Monday night at Soupçon
-  Salon."
-image: /uploads/trucksluts.jpg
+title: Milestone & Sparre play Jazz Manouche - Live at Soupçon Salon
+performer: Milestone & Sparre
+abstract: >-
+  Rhode Island based guitarist, Caleb Milestone, joins his New Hope counterpart,
+  Louis Sparre, for an evening of Jazz Manouche and Swinging Guitars!  
+
+
+  The duo will be covering a wide range of tunes including the music of Django Reinhardt, wartime standards, latin flavors and more modern Sinti and Jazz Manouche compositions.  
+
+
+  Jazz Manouche is an energetic and passionate music deeply rooted in the nomadic traditions of the Gitane and Sinti Roma peoples of Europe.  
+
+
+  We are pleased to share this music with you, in an environment perfectly tailored for its enjoyment with friends and community.   
+image: /uploads/screen-shot-2021-06-19-at-12.16.31-pm.png
 author: Shaun Ellis
 date: 2021-07-19T23:00:00.000Z
 ---
-[Those Looks](https://thoselooks.bandcamp.com/) describe their music as "velvet wave slow jams from the wilds of NJ."  The washed out reverb of Sylvia Barrantes' lead guitar lends a surfy other-worldly dimension to the clear bell of Kelly Bolding's lead vocals. Randall Newman (bass) and Shaun Ellis (drums) keep a driving rhythmic foundation to Those Looks' wispy dream-pop vibe. Those Looks could pass as a lovechild of Chris Isaac and Angel Olsen, perfect for your beach-bound playlist or a summer night at Soupçon Salon. 
+Rhode Island based guitarist, Caleb Milestone, joins his New Hope counterpart, Louis Sparre, for an evening of Jazz Manouche and Swinging Guitars!  
 
-*Doors open at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
+The duo will be covering a wide range of tunes including the music of Django Reinhardt, wartime standards, latin flavors and more modern Sinti and Jazz Manouche compositions.  
 
-Prix fixe menu by Baked by the River coming soon.
+Jazz Manouche is an energetic and passionate music deeply rooted in the nomadic traditions of the Gitane and Sinti Roma peoples of Europe.  
+
+We are pleased to share this music with you, in an environment perfectly tailored for its enjoyment with friends and community.
