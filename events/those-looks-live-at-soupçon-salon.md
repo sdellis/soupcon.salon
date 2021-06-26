@@ -24,3 +24,32 @@ The duo will be covering a wide range of tunes including the music of Django Rei
 Jazz Manouche is an energetic and passionate music deeply rooted in the nomadic traditions of the Gitane and Sinti Roma peoples of Europe.  
 
 We are pleased to share this music with you, in an environment perfectly tailored for its enjoyment with friends and community.
+
+
+
+*Seating at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
+
+- - -
+
+# Prix Fixe Menu - $25
+
+by [Baked by the River](https://bakedbytheriver.com/)<br/>
+
+*Entrée*<br/>
+**Afia's Ghanaian Peanut Stew with Chickpeas and Sweet Potato (Vegan, Gluten Free)** <br/>
+Optional 2.5mg Infusion
+
+*Dessert* <br/>
+**Creamy Coconut Lime Pie Bars (Vegan, Gluten Free)** 
+
+<br/>
+
+- - -
+
+Limited seating. Please RSVP to shaun@sdellis.com.
+
+## Location
+
+Soupçon Salon<br/>
+19 North Union St.<br/>
+Lambertville, NJ
