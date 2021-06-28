@@ -25,8 +25,6 @@ Jazz Manouche is an energetic and passionate music deeply rooted in the nomadic 
 
 We are pleased to share this music with you, in an environment perfectly tailored for its enjoyment with friends and community.
 
-
-
 *Seating at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
 
 - - -
@@ -38,6 +36,9 @@ by [Baked by the River](https://bakedbytheriver.com/)<br/>
 *Entrée*<br/>
 **Afia's Ghanaian Peanut Stew with Chickpeas and Sweet Potato (Vegan, Gluten Free)** <br/>
 Optional 2.5mg Infusion
+
+**Pistou Soup** is an option for those with peanut allergies (Vegetarian, Gluten Free)\
+Provincial vegetable soup with optional pesto and parmesan. Pesto contains pine nuts.
 
 *Dessert* <br/>
 **Creamy Coconut Lime Pie Bars (Vegan, Gluten Free)** 
