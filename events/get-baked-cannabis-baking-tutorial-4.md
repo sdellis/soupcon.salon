@@ -1,5 +1,5 @@
 ---
-title: "Get Baked Tutorial: Honey & Sugar"
+title: "Get Baked Tutorial: Cannabis Tincture, Honey, Sugar & FECO"
 performer: Baked by the River
 abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
   Tutorials! We’ll be covering all the basics you’ll need to know to make and
