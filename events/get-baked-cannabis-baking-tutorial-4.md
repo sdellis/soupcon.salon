@@ -11,6 +11,8 @@ date: 2021-07-15T23:00:17.984Z
 ---
 **Baked by the River**
 
+**If you would like to bake along and leave with your own potency tested cannabis tincture, please RSVP at least 48 hours in advance. Jesse Marie will reach out to coordinate after you RSVP, as we'll need to leave our cannabis in the freezer overnight Wednesday for the tincture process on Thursday.**
+
 **Get Baked Cannabis Baking Tutorial**
 
 Join us each Thursday at 7pm for our Get Baked Cannabis Baking Tutorials! We’ll be covering all the basics you need to know to make and enjoy your own cannabis infused edibles at home, including different methods for making cannabis infusions, safely dosing out your edibles, and recipes for our favorite edible techniques. Our baking courses are BYOB (Bring Your Own Bud), so if you would like to bake along and leave with your own potency tested infusion we recommend bringing 3.5g of your favorite cannabis strain. You don’t have to bring your own weed if you don’t want to or aren’t able to, you’re more than welcome to join us, get baked and learn either way.
@@ -34,8 +36,6 @@ Each week we will also have a cannabis topic that we'll lead an open discussion 
 7/22 Cannabis Gummies
 
 7/29 Cannabis Lube/Suppositories
-
-
 
 The cover charge for each course is $25 cash. [Reserve your seat in advance on the Baked by the River website](https://bakedbytheriver.com/get-baked).
 
