@@ -1,5 +1,5 @@
 ---
-title: Comedy at Soupcon
+title: Comedy at Soupcon hosted by Lana Epstein
 performer: Lana Epstein
 abstract: "Lana Epstein of Frenchtown's \"The Rat\" open mic will host an
   evening of comedy.  "
