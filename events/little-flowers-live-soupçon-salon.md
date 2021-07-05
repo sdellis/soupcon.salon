@@ -1,0 +1,13 @@
+---
+title: Little Flowers Live @ Soupçon Salon
+performer: Little Flowers
+abstract: Dopeness.
+image: /uploads/screen-shot-2021-07-05-at-4.02.34-pm.png
+author: Shaun Ellis
+date: 2021-07-12T23:00:45.894Z
+---
+Ever since I saw Therese Ann kick off a Triumph Open Stage with an acoustic version of Dua Lipa's New Rules, I was completely hooked. Like Dua Lipa, Therese also released a fabulous album (hers is called *Glitter*) just before the pandemic, but it's safe to say the comparisons end there. With her Little Flowers project, Therese delivers slow musings on love and life. *Glitter* serves up four tracks that melt with wistful questions and are seasoned with nostalgic reverie and wonder. 
+
+Did we make the right choice? How did we end up here? Remember what it felt like to laugh? 
+
+Little Flowers' forthcoming material features collaborations with local songsmith and producer, Brian Dale Allen Strouse, who helps fill out the arrangements and seals the deal as Little Flowers prepares to drop one of our area's most anticipated releases.
