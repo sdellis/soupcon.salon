@@ -11,3 +11,35 @@ Ever since I saw Therese Ann kick off a Triumph Open Stage with an acoustic vers
 Did we make the right choice? How did we end up here? Remember what it felt like to laugh? 
 
 Little Flowers' forthcoming material features collaborations with local songsmith and producer, Brian Dale Allen Strouse, who helps fill out the arrangements and seals the deal as Little Flowers prepares to drop one of our area's most anticipated releases.
+
+
+
+*Doors open at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
+
+- - -
+
+# Prix Fixe Menu - $25
+
+by [Baked by the River](https://bakedbytheriver.com/)<br/>
+
+*Starter*<br/>
+**Vegan Bruschetta with Jersey Tomatoes and Fresh Basil**<br/>
+(with optional 2.5mg infusion gifted from the chef)
+
+*Entrée*<br/>
+**Chilled Cucumber and Hemp Soup with Locally Sourced Cucumbers**<br/>
+(Vegan, Gluten Free)
+
+*Dessert* <br/>
+**Vegan Carrot Cake with Crystallized Ginger**<br/>
+<br/>
+
+- - -
+
+Limited seating. Please RSVP to shaun@sdellis.com.
+
+## Location
+
+Soupçon Salon<br/>
+19 North Union St.<br/>
+Lambertville, NJ
