@@ -1,8 +1,13 @@
 ---
 title: Rue Musik - Live @ Soupçon Salon
 performer: Rue Musik
-abstract: "Chris Sailer: Mutli-instrumentalist, Composition, Improvisation"
-image: /uploads/0022230494_10.jpg
+abstract: Chris Sailer is a multi-instrumentalist, composer and producer from
+  Point Pleasant, Pennsylvania. His sound mixes elements of classical, jazz and
+  world music. Chris mainly performs with a piano and guitar. His eclectic
+  songwriting and improvisations captivate his audience. He has been recording
+  and writing music for over 10 years. Performing with special guest and
+  vocalist Dave Barnes.
+image: /uploads/213539248_229847672148026_6020088782705530982_n.jpg
 author: Jesse Marie
 date: 2021-07-09T23:00:00.000Z
 ---
