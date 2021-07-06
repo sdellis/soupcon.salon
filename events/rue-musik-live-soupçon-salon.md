@@ -1,6 +1,6 @@
 ---
 title: Rue Musik - Live @ Soupçon Salon
-performer: Rue Musik
+performer: Chris Sailer
 abstract: Chris Sailer is a multi-instrumentalist, composer and producer from
   Point Pleasant, Pennsylvania. His sound mixes elements of classical, jazz and
   world music. Chris mainly performs with a piano and guitar. His eclectic
