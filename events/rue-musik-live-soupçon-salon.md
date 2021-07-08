@@ -11,8 +11,6 @@ Come join us for our first fully infused Friday night dinner party with live mus
 
 Chris Sailer is a multi-instrumentalist, composer and producer from Point Pleasant, Pennsylvania. His sound mixes elements of classical, jazz and world music. Chris mainly performs with a piano and guitar. His eclectic songwriting and improvisations captivate his audience. He has been recording and writing music for over 10 years. Performing with special guest Errol.
 
-
-
 *Doors open at 7pm • Performance starts at 8pm • No cover • Tips appreciated*
 
 - - -
@@ -38,7 +36,7 @@ by [Baked by the River](https://bakedbytheriver.com/)<br/>
 
 - - -
 
-Limited seating. Please RSVP to shaun@sdellis.com.
+Limited seating. Please RSVP to bakedbytheriver@gmail.com.
 
 ## Location
 
