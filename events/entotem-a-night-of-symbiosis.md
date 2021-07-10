@@ -9,6 +9,7 @@ date: 2021-08-07T23:00:30.945Z
 sym·bi·o·sis\
 /ˌsimbīˈōsəs,ˌsimbēˈōsəs/\
 ￼noun BIOLOGY\
+
 1. interaction between two different organisms living in close physical association, typically to the advantage of both.  • a mutually beneficial relationship between different people or groups.
 
 You are hereby invited.
@@ -16,11 +17,8 @@ You are hereby invited.
 Saturday, August 7th 7pm -12 am \
 \
 Art Gallery 7pm-9pm Hors d’oeuvres provided by Baked By the River\
-\
 Live Music 9pm-10pm YOUR KIDS and Proboscis\
-\
 After party 10pm-12am\
 \
 BYOB\
-\
 *Buyers may pick up their purchased art between August 8th-August 13th
