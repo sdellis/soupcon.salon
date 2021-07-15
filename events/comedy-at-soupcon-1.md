@@ -12,7 +12,7 @@ date: 2021-08-04T23:00:08.370Z
 **Lana Epstein** of Frenchtown's "The Rat" open mic will host an evening of space cakes and comedy.   
 
 *Angela Sharp*  [@ang_overshares](https://www.instagram.com/ang_overshares/?hl=en)\
-J*oe Ferraro*\
+J*oe Ferraro* [@josephnatale88](https://www.instagram.com/josephnatale88/)\
 *Emily Poche* [@emilytellsjokes](https://twitter.com/emilytellsjokes?lang=en)\
 *Allie Mae [@defaultprogrammer](https://www.instagram.com/defaultprogrammer/?hl=en)*\
 *Mike Dialto [@mike_dialto](https://www.instagram.com/mike_dialto/?hl=en)*\
