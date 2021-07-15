@@ -9,12 +9,9 @@ image: /uploads/soupcon-4-aug-2021-comedy.jpeg
 author: Iris AlRoy
 date: 2021-08-04T23:00:08.370Z
 ---
-## Soupcon Comedy
+Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of space cakes and comedy. Lana is an improviser, actress, and comedian. Lana produces the Tuesday night comedy open mic at the Rathskeller Pub in Frenchtown.    [](https://www.instagram.com/mynameislanaepstein/?hl=en)
 
-Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of space cakes and comedy. Lana is an improviser, actress, and comedian. Lana produces the Tuesday night comedy open mic at the Rathskeller Pub in Frenchtown. Find her on Instagram at [@mynameislanaepstein](https://www.instagram.com/mynameislanaepstein/?hl=en)
-
-
-**Space is limited. [Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdB8LKMqXcK0waFzERgIATX09wSVyn_C938ZnZMv0Kb2cyF6Q/viewform)**  
+### **Space is limited. [Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdB8LKMqXcK0waFzERgIATX09wSVyn_C938ZnZMv0Kb2cyF6Q/viewform)**  
 
 **The Lineup**
 
@@ -30,7 +27,9 @@ Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of space ca
 
 *Meg Goetz* [@meggoetzmoney](https://www.instagram.com/meggoetzmoney/?hl=en) 
 
-### Ladies' High Tea  
+Lana Epstein [@mynameislanaepstein](https://www.instagram.com/mynameislanaepstein/?hl=en)
+
+### Ladies' High Tea
 
 Space Cakes (THC infused cupcakes) and Tea from [Baked by the River](https://bakedbytheriver.com/)
 
