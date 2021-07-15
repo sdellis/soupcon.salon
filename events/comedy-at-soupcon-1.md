@@ -21,8 +21,10 @@ J*oe Ferraro*\
 **Ladies' High Tea will be served** \
 Space Cakes and Tea from [Baked by the River](https://bakedbytheriver.com/)
 
-**About Lana Epstein**\
+Space is limited. [Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdB8LKMqXcK0waFzERgIATX09wSVyn_C938ZnZMv0Kb2cyF6Q/viewform)
+
+**ABOUT LANA EPSTEIN**\
 Lana is an improviser, actress, and comedian. Just recently, she entered the business world with her event production company, Party Animal Productions LLC.  Find her on Instagram at [@mynameislanaepstein](https://www.instagram.com/mynameislanaepstein/?hl=en)
 
-**About Soupcon Salon**\
+**ABOUT SOUPCON SALON**\
 We are a volunteer-run local arts collective. Tips appreciated! We suggest a $10 donation.
