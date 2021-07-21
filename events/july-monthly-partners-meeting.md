@@ -37,7 +37,7 @@ Soupçon Salon's July Monthly Partner's Meeting will be held on Wednesday, July 
 
 Agenda items:
 
-* Community Agreement & Values / Code of Conduct discussion and initial draft
+* Community Agreement & Values / Code of Conduct discussion and initial draft ([inspiration](https://corevalues.womenscenterforcreativework.com/))
 * Last day of kitchen use is Monday, July 26. Future events at 19 N. Union that involve food will be potlucks.
 * Updates from event committees on remaining events at 19 N. Union
 * Space options after Aug 15.
