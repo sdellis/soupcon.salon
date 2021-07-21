@@ -22,3 +22,5 @@ After party 10pm-12am\
 \
 BYOB\
 *Buyers may pick up their purchased art between August 8th-August 13th
+
+![Flier for Entotem featuring Proboscis, Your Kids, MC DisCord, and Baked by the River](/uploads/entotem.jpeg "Flier for Entotem featuring Proboscis, Your Kids, MC DisCord, and Baked by the River")
