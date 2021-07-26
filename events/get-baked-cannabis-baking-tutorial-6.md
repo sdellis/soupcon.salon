@@ -1,10 +1,10 @@
 ---
 title: "Get Baked Tutorial: Lube and Suppositories"
 performer: Baked by the River
-abstract: Join us each Thursday at 7pm for our Get Baked Cannabis Baking
-  Tutorials! We’ll be covering all the basics you’ll need to know to make and
-  enjoy your own cannabis infused edibles. Events are BYOB (Bring Your Own Bud)
-  for anyone who would like to bake along.
+abstract: Join this Thursday at 7pm for our last Get Baked Cannabis Baking
+  Tutorials this summer! We’ll be covering all the basics you’ll need to know to
+  make and enjoy your own cannabis infused coconut oil, cannabis lube and
+  cannabis suppositories!
 image: /uploads/img_20201022_195525.jpg
 author: Jesse Marie
 date: 2021-07-29T23:00:38.307Z
@@ -13,30 +13,23 @@ date: 2021-07-29T23:00:38.307Z
 
 **Get Baked Cannabis Baking Tutorial**
 
-Join us each Thursday at 7pm for our Get Baked Cannabis Baking Tutorials! We’ll be covering all the basics you need to know to make and enjoy your own cannabis infused edibles at home, including different methods for making cannabis infusions, safely dosing out your edibles, and recipes for our favorite edible techniques. Our baking courses are BYOB (Bring Your Own Bud), so if you would like to bake along and leave with your own potency tested infusion we recommend bringing 3.5g of your favorite cannabis strain. You don’t have to bring your own weed if you don’t want to or aren’t able to, you’re more than welcome to join us, get baked and learn either way.
+Join us this Thursday at 7pm for our last Get Baked Cannabis Baking Tutorial of the summer! We’ll be covering everything you need to know to make and enjoy your own cannabis lube and cannabis suppositories! 
 
-For each class we will provide all the equipment you’ll need to make cannabis infused coconut oil, which we will make together during the 2 hour session. We will be covering cannabis infusion basics at the beginning of each course. By the end of the course you can leave with your own potency-tested cannabis infusion to take home and use (potency tested using our T-Check Potency Tester).  While our buds are decarboxylating and our cannabis infusions are simmering, we’ll use the time to teach you our favorite cannabis edible recipes, from brownies and cookies, to tinctures, sugar, topicals, lube, chocolates, and gummies (and we’ll bake up some samples for you to take home!). 
+**Content Warning**
 
-Each week we will also have a cannabis topic that we'll lead an open discussion on. Topics will vary from more serious topics like responsibly using cannabis for mental health, the importance of conscious consumption, edible safety and burning questions about recreational legalization in NJ. We'll also cover cannabis microdosing, how to use cannabis to spice up your sex life, cannabis and creative motivation, and the importance of finding your favorite terpenes. Discussions will take place in the cannabis sanctuary (weather depending), so feel free to bring your own bud to vape, smoke, or consume as you’d like!
+* We will be talking explicitly about sex, sexual anatomy, genitalia, and sexual pleasure.
+* We will avoid associating sexual anatomy and genitalia with gender. All are welcome <3 
 
-**Summer 2021 Get Baked Schedule**
+**Why cannabis lube and suppositories?**
 
-6/17 Cannabis Infusion Basics
+Cannabis lubes and suppositories are uniquely beneficial methods of cannabis consumption. You can use these products for pain and symptom relief for a variety of conditions, to improve blood flow and sensation, and to increase sexual pleasure to enjoy some elevated intimacy. Because of their limited availability in both the black market and medical cannabis program, we want to show all participants how to infuse their own custom suppositories and lubes at home!
 
-6/24 Cannabis Chocolates
+**No need to bring your own bud for this last course** (unless you'd like to partake with us in the 420 sanctuary when we finish up!). We have a large number of people interested in joining and are unable to infuse and potency test for everyone with the kitchen space currently available. Instead we will be walking everyone through the process of making your own lube and suppositories for you to replicate at home, discuss the many uses and benefits of these products, and send each participant home with their own gift bag to experiment with and enjoy. This way everyone can come (and cum)!
 
-7/01 Cannabis Topicals
-
-7/08 Cannabis Tincture and FECO
-
-7/15 Cannabis Honey and Cannabis Sugar
-
-7/22 Cannabis Gummies
-
-7/29 Cannabis Lube/Suppositories
-
-
-
-The cover charge for each course is $25 cash. [Reserve your seat in advance on the Baked by the River website](https://bakedbytheriver.com/get-baked).
+The cover charge for the course is $25 cash. Space is limited, so we strongly recommend you [Reserve your seat in advance on the Baked by the River website](https://bakedbytheriver.com/get-baked).
 
 If you are unable to pay the cover charge but would still like to join, please let us know and we can reduce the fee on an as needed basis.
+
+**Trigger warning:**
+
+* During the course, we will mention uses of cannabis for trauma related issues. This will be a brief part of the course; discussion will be trauma-informed, purposefully vague to avoid potentially re-traumatizing information, and focus only on finding ways to cope while in recovery (from the perspective of a certified peer specialist).
