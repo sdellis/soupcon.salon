@@ -5,7 +5,7 @@ abstract: >+
   Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of
   comedy.  Ladies' High Tea will be Served.
 
-image: /uploads/soupcon-4-aug-2021-comedy.jpeg
+image: /uploads/restorative-justice-bonding-circle.jpeg
 author: Iris AlRoy
 date: 2021-08-04T23:00:08.370Z
 ---
@@ -31,6 +31,6 @@ Lana Epstein [@mynameislanaepstein](https://www.instagram.com/mynameislanaepstei
 
 ### Ladies' High Tea
 
-Space Cakes (infused cupcakes) and Tea shared by [Baked by the River](https://bakedbytheriver.com/)
+Space Cakes (infused cupcakes) and Tea gifted by [Baked by the River](https://bakedbytheriver.com/)
 
 We are a volunteer-run local arts collective. Tips appreciated! We suggest a $10 donation.
