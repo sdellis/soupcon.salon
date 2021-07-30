@@ -29,8 +29,6 @@ Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of space ca
 
 Lana Epstein [@mynameislanaepstein](https://www.instagram.com/mynameislanaepstein/?hl=en)
 
-### Ladies' High Tea
-
-Space Cakes (infused cupcakes) and Tea gifted by [Baked by the River](https://bakedbytheriver.com/)
+--------
 
 We are a volunteer-run local arts collective. Tips appreciated! We suggest a $10 donation.
