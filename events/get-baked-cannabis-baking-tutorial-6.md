@@ -7,7 +7,7 @@ abstract: Join this Thursday at 7pm for our last Get Baked Cannabis Baking
   cannabis suppositories!
 image: /uploads/img_20201022_195525.jpg
 author: Jesse Marie
-date: 2021-07-29T23:00:38.307Z
+date: 2021-08-05T23:00:38.307Z
 ---
 **Baked by the River**
 
