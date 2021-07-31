@@ -1,13 +1,11 @@
 ---
-title: Dusty's Night of Blasphemy
+title: "*** CANCELED *** Dusty's Night of Blasphemy"
 performer: DJ Dusty Oat
 abstract: Dopeness.
 image: /uploads/djdustyoat.png
 author: Shaun Ellis
 date: 2021-08-01T00:00:10.196Z
 ---
-DJ Dusty Oat will once again return to the turntables to deliver exactly what we need that only she knows. Prepare to hit the ceiling (that Myles Cavanaugh painted!) and raise the roof. 
-
-Dress code: Filthy Fabulous. 
+Due to possible COVID exposure, The Night of Blasphemy is canceled. We will reschedule this at a later date.
 
 ![Image of Divine, the star of many John Waters films, with a sinister smile.](/uploads/dustys-night-of-blasphemy.png "Image of Divine, the star of many John Waters films, with a sinister smile.")
