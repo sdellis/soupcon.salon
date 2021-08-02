@@ -1,5 +1,5 @@
 ---
-title: "Soupcon Comedy  "
+title: "**** CANCELED **** Soupcon Comedy  "
 performer: Hosted by Lana Epstein
 abstract: >+
   Lana Epstein of Frenchtown's "The Rat" open mic will host an evening of
