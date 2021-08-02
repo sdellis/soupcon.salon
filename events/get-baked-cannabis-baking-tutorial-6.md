@@ -1,5 +1,5 @@
 ---
-title: "Get Baked Tutorial: Lube and Suppositories"
+title: "**** CANCELED **** Get Baked Tutorial: Lube and Suppositories"
 performer: Baked by the River
 abstract: Join this Thursday at 7pm for our last Get Baked Cannabis Baking
   Tutorials this summer! We’ll be covering all the basics you’ll need to know to
