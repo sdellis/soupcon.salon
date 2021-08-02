@@ -16,10 +16,10 @@
           </nav>
         </header>
         <div class="subheader">
-          <p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
-          </p>
+          <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
+          </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon opens this summer at 19 N. Union Street.
+            Soupçon Salon has ceased in-person events indefinitely due increases in COVID infection rates in the region. Thanks for your patience and understanding.
           </p>
         </div>
         <main>
