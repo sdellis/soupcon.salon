@@ -14,9 +14,10 @@ Our next General Partners Meeting will be held on October 3rd from 2-3:30pm at t
 * Role call and assign note taker
 * Announcements: 501(c)(3) status, Ida Recovery Fund, and ???
 * Finalize Community Agreement
+* Introduce Bylaws draft, including Board of Trustees nomination/voting rules
 * Determine Partnership benefits at Basic, Supporting, and Patron levels
-* Discussion about the dissemination of Ida Recovery Fund
+* Q&A about the dissemination of Ida Recovery Fund
 * Discussion around future event location options
-* 15 minute Q&A session with Lambertville mayoral candidates (unconfirmed)
+* 15 minute Q&A session with Lambertville mayoral candidates? (unconfirmed)
 
 Please feel free to add to the agenda be emailing additional agenda items to [soupcon.salon@gmail.com](mailto:soupcon.salon@gmail.com).
