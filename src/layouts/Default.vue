@@ -13,14 +13,15 @@
             <g-link class="nav__link" to="/calendar/">Calendar</g-link>
             <g-link class="nav__link" to="/about/">How it Works</g-link>
             <!--<g-link class="nav__link" to="/about/">How it Works</g-link>-->
-            <g-link class="nav__link" to="https://soupcon-salon.square.site/">Become a Partner</g-link>
+            <!-- <g-link class="nav__link" to="https://soupcon-salon.square.site/">Become a Partner</g-link> -->
+            <g-link class="nav__link" to="https://buy.stripe.com/4gwdRp2qw2Q47Be4gg">Become a Partner</g-link>
           </nav>
         </header>
         <div class="subheader">
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon has ceased in-person events indefinitely due increases in COVID infection rates in the region. Thanks for your patience and understanding.
+            Soupçon Salon announces new location at the former Hibernia Firehouse, at 35 South Main Street!
           </p>
         </div>
         <main>
