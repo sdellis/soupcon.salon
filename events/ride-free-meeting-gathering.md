@@ -16,7 +16,7 @@ abstract: >-
 
 
   Since March 2021, our campaign Ride Free has completed over 250 ride requests!
-image: /uploads/screen-shot-2022-06-14-at-6.10.06-pm.png
+image: /uploads/ridefree.png
 author: Shaun Ellis
 date: 2022-06-15T23:00:15.359Z
 ---
