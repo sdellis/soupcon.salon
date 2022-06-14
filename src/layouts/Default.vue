@@ -10,7 +10,7 @@
         </div>
           <nav class="nav">
             <g-link class="nav__link" to="/">Home</g-link>
-            <g-link class="nav__link" to="/calendar/">Calendar</g-link>
+            <g-link class="nav__link" to="/schedule/">Schedule</g-link>
             <g-link class="nav__link" to="/about/">How it Works</g-link>
             <!--<g-link class="nav__link" to="/about/">How it Works</g-link>-->
             <!-- <g-link class="nav__link" to="https://soupcon-salon.square.site/">Become a Partner</g-link> -->
@@ -21,7 +21,7 @@
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon announces new location at the former Hibernia Firehouse, at 35 South Main Street!
+            Soupçon Salon announces new location at the former Hibernia Firehouse, at 37 South Main Street!
           </p>
         </div>
         <main>
