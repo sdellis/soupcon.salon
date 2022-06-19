@@ -23,9 +23,9 @@ collections:
       slug: "{{slug}}"
       fields:
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Performer", name: "performer", widget: "string"}
+        - {label: "Performer", name: "performer", widget: "string", optional: true}
         - {label: "Abstract", name: "abstract", widget: "text"}
-        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Image", name: "image", widget: "image", optional: true}
         - {label: "Author", name: "author", widget: "string"}
         - {label: "Date", name: "date", widget: "datetime"}
         - {label: "Body", name: "body", widget: "markdown"}
