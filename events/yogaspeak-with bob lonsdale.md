@@ -5,7 +5,7 @@ abstract: Take a few minutes to share your thoughts or feelings and do a pose
   with the group to gain insight, remove an obstacle or embody your words.
 image: /uploads/lonsdale-yoga.jpg
 author: Bob Lonsdale
-date: 2022-07-07T14:27:51.747Z
+date: 2022-07-07T23:30:51.747Z
 ---
 **Thursday @ 7:30 to 8:30pm - July 7, 14, 21, 28**
 
