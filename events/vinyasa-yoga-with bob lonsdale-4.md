@@ -5,7 +5,7 @@ abstract: Enjoy this fast-paced, fun-filled practice designed for dynamic
   flexibility, strength and even cardiovascular health.
 image: /uploads/lonsdale-yoga.jpg
 author: Bob Lonsdale
-date: 2022-07-28T14:27:15.416Z
+date: 2022-07-28T22:00:15.416Z
 ---
 **Thursdays @ 6:00 to 7:15pm - July 7, 14, 21, 28**
 
