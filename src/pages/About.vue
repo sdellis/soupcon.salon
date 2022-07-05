@@ -5,13 +5,23 @@
     <article>
       <section id="how_it_works">
       <h1>How It Works</h1>
-      <p><em>Note: How this works is up to everyone who is involved. The following is a proposal,
-        and will be revised and confirmed by the entire group.</em></p>
-
       <!-- <div width="100%"> -->
         <!-- Learn how to use images here: https://gridsome.org/docs/images -->
         <g-image alt="Soupçon Salon" src="~/soupcon.png" width="600px" fit="contain" />
       <!-- </div> -->
+      <h2>Our Mission: A Community Center for Lambertville</h2>
+      <p
+        <blockquote>"We unite people with the common goals of working on collective excellence and
+          facilitating a voluntary reciprocal exchange of resources and services for mutual benefit."</blockquote>
+      </p>
+      <p>Our mission statement is a fancy way of saying that we are focused on supporting each other and building relationships by sharing our space, our resources, our effort to help each other realize our visions and live our dreams. Building trusted relationships strengthens our collective ability to create positive change in our backyards and in our community. The Soupçon Salon Firehouse is our Community Center and where these relationships are built.</p>
+    </section>
+    <section id="why">
+      <h2>Why are we doing this?</h2>
+      <blockquote>
+        "The role of the artist is to make the revolution irresistible."<br/>
+        -- Toni Cade Bambara
+      </blockquote>
       <p>We are approaching Soupçon Salon as an antidote to the dominant paradigm,
         in which people are pitted against each other in competition. We believe
         that our liberation is rooted in a community where all people are valued
@@ -35,18 +45,11 @@
           <li>What you pay attention to grows.</li>
         </ul>
       </p>
-    </section>
-    <section id="why">
-      <h2>Why are we doing this?</h2>
-      <blockquote>
-        "The role of the artist is to make the revolution irresistible."<br/>
-        -- Toni Cade Bambara
-      </blockquote>
       <p>
-        We are all tired of Capitalism. The pandemic has amplified its failings, and has more clearly revealed its related structures of inequity and colonial artifacts. But what is the best, fairest alternative? We will find out. Soupçon allows us to experiment with alternative ways of living and interacting. This is a social experiment that aims to prove that more compassionate societies are not only possible, but can thrive. This is not to say that we will get everything right, and we will most certainly need to adjust the dials along the way.
+        We are all tired of Capitalism. The pandemic has amplified its failings, and has more clearly revealed its related structures of inequity and colonial artifacts. But what is the best, fairest alternative? We will find out. Soupçon allows us to experiment with alternative ways of living and interacting. This is a social experiment that aims to prove that more compassionate societies are not only possible, but can thrive. This is not to say that we will get everything right, and we will most certainly need to adjust the dials along the way, but we are focused on solutions and results that unite people, not hollow theories and "-isms" that divide people.
       </p>
       <p>
-        We value collaboration, accountability, diversity, and joy. We work to uplift and center the most vulnerable among us. Consistent government failings and pandemic-imposed isolation have exacerbated the divisions among us. We want to see this end. There is no savior that will swoop in and make things better. We have only ourselves and we embark on this journey out of love for our families, our friends, and our community. Soupçon is a city-wide commune that will teach us to work together, in harmony.
+        We value collaboration, accountability, diversity, and joy. We work to uplift and center the most vulnerable among us. Consistent government failings and pandemic-imposed isolation have exacerbated the divisions among us. We want to see this end. There is no savior that will swoop in and make things better. We have only ourselves and we embark on this journey out of love for our families, our friends, and our community. We hope we will learn how to work together better, with more harmony.
       </p>
     </section>
     <section id="mutual_aid">
@@ -78,12 +81,7 @@
       <h2>Why a Non-profit?</h2>
       <p>Soupçon Salon is a Nonprofit Corporation that falls under Internal Revenue Code Section 501(c)(3). Many people instinctively pit mutual aid networks and nonprofits against each other, but we don't believe that every nonprofit is part of the "nonprofit industrial complex." Instead, we believe that there is a place for self-aware nonprofits to provide needed support to mutual aid groups and to collaborate in bringing about about real change. Where philanthropy builds ties between people and organizations, we seek to encourage relationships among people, and expand our community's capacity to give back and improve our collective lot.
       </p>
-      <p>Charity, aid, relief, and social services are terms that usually refer to rich people or the government making decisions about the provision of some kind of support for poor people -- that is, rich people or the government deciding who gets the help, and what strings are attached. You can be sure that help like that is not designed to get to the root causes of poverty and violence. It's designed to help improve the image of the elites who are funding it and put a tiny, inadequate bandage on the massive social wound that their greed creates. No, Soupçon is not a charity.
-      </p>
-      <p>What is it then?</p>
-      <p>
-        Soupçon Salon mobilizes neighbors who have good ideas to become powerful citizen leaders who plan, fund and make positive “in our backyards” - the positive opposite of NIMBY. The only requirement for membership/partnership with Soupçon Salon is that you must agree with our deining principle, which is:
-        <blockquote>"We unite people with the common goals of working on collective excellence and facilitating a voluntary reciprocal exchange of resources and services for mutual benefit."</blockquote>
+      <p>Charity, aid, relief, and social services are terms that usually refer to rich people or the government making decisions about the provision of some kind of support for poor people -- that is, rich people or the government deciding who gets the help, and what strings are attached. You can be sure that help like that is not designed to get to the root causes of poverty and violence. It's designed to help improve the image of the elites who are funding it and put a tiny, inadequate bandage on the massive social wound that their greed creates. No, Soupçon is not a charity. Soupçon Salon is a place where we offer support and receive support, where we work out our differences, and where we can learn to thrive as a community.
       </p>
     </section>
     <section id="involvement">
@@ -104,36 +102,43 @@
       </p>
         <h4>Inclusive First</h4>
         <p>
-          Not that we see it as a "benefit," since inclusivity should simply be the way things are. We design our systems of living with a commitment to including all. We work together to dismantle internalized systems of oppression and keep each other accountable. We support and center our most vulnerable and our most oppressed members of the community and society at large. We support a vegan and compassionate vegetarian menu to fight climate change and to reduce suffering in the world.
+          Not that we see it as a "benefit," since inclusivity should simply be the way things are. But it's important to note that we design our society with a commitment to including all. We work together to dismantle internalized systems of oppression and keep each other accountable. We support and center our most vulnerable and our most oppressed members of the community and society at large.
         </p>
-        <h4>Access to The Facility</h4>
+        <h4>Access to and Use of The Firehouse</h4>
+        <g-image alt="Soupçon Salon Firehouse" src="~/SOUPCON-FIREHOUSE.jpg" width="600px" fit="contain" />
         <p>
-          Partners are able to gain access and host meetings and events at the historic and beautiful Hibernia Firehouse. This is a chill space. All are welcome. The music is local. The projects are fresh. The upstairs lounge is a relaxing sanctuary with wi-fi and air conditioning ready for work, organizing, or socializing.
+          Partners are able to gain access and host meetings and events at the historic and beautiful Hibernia Firehouse. This is a beautiful space. All are welcome. The music is local. The projects are fresh. The upstairs lounge is a relaxing sanctuary with wi-fi and air conditioning ready for work, organizing, or socializing. Partners may also reserve the Firehouse as rehearsal space.
+        </p>
+        <h4>Co-Working Space</h4>
+        <p>Members may use the co-working space on the second floor of the Firehouse, complete with wi-fi and printers. Co-working hours are Monday through Friday, unless otherwise specified.</p>
         </p>
         <h4>Support Network</h4>
         <p>Soupçon seeks to offer direct assistance to those experiencing life difficulties.
           In a time when many people don't have other places to turn, Soupçon will listen
           to community needs. We will work to meet those needs and support the well-being of our community.
         </p>
+        <h4>Exclusive Events and Partner Discounts</h4>
+        <p>In an effort to encourage partnership, we host exclusive events that are only open to Partners. Other events  are provided at a discount to partners.
+        </p>
         <h4>Artists and Craftspeople Showcases</h4>
         <p>
-        The walls are for local art. How that will be done will be up to those who
+        The walls are meant for local art. How that will be done will be up to those who
         get involved in shaping the gallery.
         </p>
         <h4>Teaching/Instruction</h4>
         <p>
         A big part of working together is teaching other people how to do things.
         Partners are encouraged to host a class on anything useful, creative, or
-        empowering. This could be how to build websites, knit hats, figure drawing in watercolor,
+        empowering. This could be how to practice yoga, build websites, knit hats, figure drawing in watercolor,
         or make baskets out of materials from the path along the canal, or whatever!
         Let's share our skills!
         </p>
-        <h4>Musician/Performer Showcases</h4>
+        <h4>Musician/Performer/DJ Showcases</h4>
         <p>
         If you have ever performed in this space, you know there is magic. We intend to
         hold weekly, curated events at Soupçon Salon in the model of the original event,
         and we would love all the local musicians to have a chance to shine in front
-        of their neighbors. These events will be recorded and live-streamed to RadioFreeLambertville.com.
+        of their neighbors. These events may be recorded and live-streamed to RadioFreeLambertville.com.
         Attendees are encouraged to contribute a tip to the performer.
         </p>
         <p></p>
