@@ -18,7 +18,7 @@ abstract: >-
   Since March 2021, our campaign Ride Free has completed over 250 ride requests!
 image: /uploads/ridefree.png
 author: Shaun Ellis
-date: 2022-06-15T23:00:15.359Z
+date: 2022-07-28T22:00:15.359Z
 ---
 Ride Free, a Free Bridge Mutual Aid project, is a neighborhood ride share program, providing free rides to community members who may be without transportation. All are welcome to join our monthly planning meeting, including those interested in volunteering, assistance, or simply seeking additional information.
 
