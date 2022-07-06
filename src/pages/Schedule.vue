@@ -2,7 +2,9 @@
   <Layout>
     <article>
     <h1>Schedule of Events</h1>
-    <p><em>Are you a Soupçon Salon partner (aka, "member") and have a great idea for an event? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKQ_bnHmbhXHlhXxc3BXQYwkzW-Kz4nGTY0khFH06PJUs5kw/viewform">Propose your event here</a> and we'll work with you to get it on the schedule!</em></p>
+    <p class="important-note"><em>Are you a Soupçon Salon partner (aka, "member") and have a great idea for an event? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKQ_bnHmbhXHlhXxc3BXQYwkzW-Kz4nGTY0khFH06PJUs5kw/viewform">Propose your event here</a> and we'll work with you to get it on the schedule!</em></p>
+    <p class="note"><strong>Co-Working at the Firehouse takes place Monday through Friday from 9:00am to 5:00pm. Open to all Partners and includes use of printers and Wi-Fi.</strong>
+    <br/>Please keep an eye on the Partners email list for cancelations, or reach out to that list for more info.</p>
     <div v-for="slot in schedule($page.events.edges)" :key="slot.year">
       <h2>{{ slot.month }} {{ slot.year }}</h2>
       <div class="month" v-for="event in slot.events" :key="event.id">
@@ -69,5 +71,14 @@ export default {
 <style>
 .month {
   margin-left: 2em;
+}
+
+.important-note {
+  background: beige;
+  padding: 1em;
+}
+
+.note {
+  padding: 1em;
 }
 </style>
