@@ -5,7 +5,7 @@ abstract: "Join us for an info session with Jeff Tittel, former Director of the
   NJ Sierra Club, as he discusses the various risks introduced to Lambertville
   and residents should a zoning variance be granted to the development at 240 S.
   Main St. (bottom of Weeden St) at the end of the month.  "
-image: /uploads/screen-shot-2022-07-09-at-10.08.35-pm.png
+image: /uploads/screen-shot-2022-07-09-at-10.05.32-pm.png
 author: Shaun Ellis
 date: 2022-07-11T23:00:06.670Z
 ---
