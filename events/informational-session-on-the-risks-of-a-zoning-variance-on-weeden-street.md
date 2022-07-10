@@ -2,9 +2,9 @@
 title: Informational Session on the Risks of a Zoning Variance on Weeden Street
 performer: Jeff Tittel
 abstract: "Join us for an info session with Jeff Tittel, former Director of the
-  NJ Sierra Club, as he discusses the various risks introduced to Lambertville
-  and residents should a zoning variance be granted to the development at 240 S.
-  Main St. (bottom of Weeden St) at the end of the month.  "
+  NJ Sierra Club, as he discusses the various risks introduced to the City of
+  Lambertville and its residents should a zoning variance be granted to the
+  development at 240 S. Main St. (bottom of Weeden St) at the end of July.  "
 image: /uploads/screen-shot-2022-07-09-at-10.05.32-pm.png
 author: Shaun Ellis
 date: 2022-07-11T23:00:06.670Z
@@ -26,8 +26,7 @@ All are welcome to an information session with Jeff Tittel, former Director of t
    available. Currently, they are proposing a 12-car parking lot with 4 spaces along Weeden St. This
    is result in parking on Rt. 29 taking away the few designated spaces from existing residents.
 
-There is a lot at stake in this zoning application if it is approved. The goal of the session is to have an open dialogue and determine next steps for addressing these concerns. 
-
+There is a lot at stake for the environment and residents in this zoning application if it is approved. The goal of the session is to have an open dialogue and determine next steps for preventing the variance. 
 
 The next Zoning Board meeting, the second one concerning this application, is scheduled for
 Thursday, July 28th at 7:30 in the Acme Building, 25 S. Union. Please attend and help voice concerns about this zoning variance.
