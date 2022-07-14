@@ -23,8 +23,6 @@ They will prepare the food, the dancers in full garb are local, and Oaxaca inspi
 
 The group began through a women’s empowerment workshop developed by the library in the spring of 2022. It was attended steadily by a core group of 25-30 women and their children also engaged in educational activities. The Oaxaca Festival serves as an extension of the program so the group can apply skills learned and grow together as a community.
 
-In addition to donations, we are looking for artists and other volunteers to help make it a success.
+In addition to donations, we are looking for artists and other volunteers to help make it a success. Artists, [check out this video](https://vimeo.com/728492214) to see how you can help!
 
 Reach out to our staff at the Library if you are interested , or call Trina Bardusco: at 347-837-1542
-
-Here photos captured during the Latinas in Lambertville program!
