@@ -1,7 +1,7 @@
 ---
-title: DJ Open Mic Night
+title: DJ Open Mic Night *****POSTPONED from 7/15*****
 performer: Greg Melito
-abstract: >-
+abstract: >
   DJ Open Mic Night 
 
   21+, BYOB  
