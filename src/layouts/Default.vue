@@ -21,7 +21,7 @@
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon announces new location at the former Hibernia Firehouse, at 37 South Main Street!
+            Our firehouse location is on pause while we make repairs to the building. Thanks for your patience!
           </p>
         </div>
         <main>
