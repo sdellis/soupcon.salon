@@ -21,7 +21,7 @@
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Our firehouse location is on pause while we make repairs to the building. Thanks for your patience!
+            Events at the Firehouse will resume after we make necessary repairs to the building. Thanks for your patience!
           </p>
         </div>
         <main>
