@@ -4,7 +4,7 @@
       <div class="welcome">
       <h1>The idea is simple:</h1>
       <p>Build community and promote healing by gathering together
-        to share food, tell stories, make art, and fill the air with music.
+        to share food, tell stories, make art, teach each other, and fill the air with music.
         We work towards collective excellence, and facilitate a voluntary reciprocal
         exchange of resources for mutual benefit. This is a radical experiment
         in creating utopia.</p>
