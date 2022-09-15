@@ -11,7 +11,7 @@ abstract: >
   Únase a nosotros para un intercambio de ropa en Firehouse, en colaboración con Free Bridge Mutual Aid, para un intercambio gratuito de ropa, accesorios, arte y artículos domésticos pequeños en buen estado. ¡Todos son bienvenidos!
 image: /uploads/purple-retro-about-me-first-day-school-presentation-1-.png
 author: Shaun Ellis
-date: 2022-09-15T16:07:11.889Z
+date: 2022-09-25T16:00:11.889Z
 ---
 Join us for a clothing swap at the Firehouse, in collaboration with Free Bridge Mutual Aid, for a free exchange of gently used clothing, accessories, art, and small household items. Some tables will be provided, but please bring a folding table or clothing rack, if possible. All are welcome! 
 
