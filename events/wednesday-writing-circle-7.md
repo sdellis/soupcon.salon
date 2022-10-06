@@ -6,7 +6,7 @@ abstract: Bring your notebook and write freely. All genres welcome, sharing
   yoga, this would be a gentle, restorative session. 6-9 PM
 image: /uploads/molly-costello.jpg
 author: Matheson Westlake
-date: 2023-02-01T23:00:50.765Z
+date: 2023-02-15T23:00:50.765Z
 ---
 Bring your notebook and write freely. All genres welcome, sharing optional. If you have a juicy writing prompt, offer it up! If writing was yoga, this would be a gentle, restorative session. 
 
