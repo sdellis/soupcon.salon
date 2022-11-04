@@ -1,12 +1,11 @@
 ---
-title: Potluck / Open Mic
+title: Potluck / Open Mic - CANCELED!
 performer: Open Mic
-abstract: Join us for good food and conversation as local musicians, poets,
-  comedians, and other performers share their talents. 6-9pm. Open to all.
+abstract: "Tonight's Open Mic is canceled so as not to conflict with the Art
+  Exhibition Opening of Soupçon partner and local artist/musician, Rachel
+  Rosemarie, at Young Bennet Gallery at 57 Coryell Street. "
 image: /uploads/potluck-dinner-table-1400x706.jpeg
 author: Shaun Ellis
 date: 2022-11-04T22:00:04.105Z
 ---
-Join us for good food and conversation as local musicians, poets, comedians, and other performers share their talents. 6-9pm. Open to all. Bring a dish to share. 
-
-Suggested $5 donation to the Salon. (No one will be turned away for lack of funds.)
+Tonight's Open Mic is canceled so as not to conflict with the Art Exhibition Opening of Soupçon partner and local artist/musician, Rachel Rosemarie, at Young Bennet Gallery at 57 Coryell Street.
