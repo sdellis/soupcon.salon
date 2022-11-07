@@ -1,8 +1,8 @@
 ---
-title: Election Watch Party
+title: Election Watch Party - Canceled!
 performer: n/a
-abstract: |-
-  Election Watch Party
+abstract: |
+  Election Watch Party has been moved to Zoom. Invite only. 
   6 PM
 image: /uploads/0.jpg
 author: Elizabeth O'Donnell
