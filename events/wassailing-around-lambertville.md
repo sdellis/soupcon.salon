@@ -13,10 +13,10 @@ abstract: >-
   "here we go a-wassailing"
 
 
-  Meet at the firehouse and bring your favorite seasonal songs, along with a few copies of lyrics if necessary. We will have hot soup and bread. Meet at 5pm, eat and practice, and wassail at 6pm.
+  Meet at the firehouse and bring your favorite seasonal songs, along with a few copies of lyrics if necessary. We will have hot soup and bread. Meet at 6pm, eat and practice, and wassail at 7pm.
 image: /uploads/wassailing.jpeg
 author: Shaun Ellis
-date: 2022-12-18T22:00:10.245Z
+date: 2022-12-18T23:00:10.245Z
 ---
 Definitions of "wassail":
 
@@ -25,4 +25,4 @@ Definitions of "wassail":
 2. go from house to house singing carols.
    "here we go a-wassailing"
 
-Meet at the firehouse and bring your favorite seasonal songs, along with a few copies of lyrics if necessary. We will have hot soup and bread. Meet at 5pm, eat and practice, and wassail at 6pm.
+Meet at the firehouse and bring your favorite seasonal songs, along with a few copies of lyrics if necessary. We will have hot soup and bread. Meet at 6pm, eat and practice, and wassail at 7pm.
