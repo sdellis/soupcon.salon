@@ -5,7 +5,7 @@ abstract: Join us for good food and conversation as local musicians, poets,
   comedians, and other performers share their talents. 6-9pm. Open to all.
 image: /uploads/potluck-dinner-table-1400x706.jpeg
 author: Shaun Ellis
-date: 2022-11-18T23:00:42.992Z
+date: 2022-11-19T00:00:42.992Z
 ---
 Join us for good food and conversation as local musicians, poets, comedians, and other performers share their talents. 6-9pm. Open to all. Bring a dish to share. 
 
