@@ -1,17 +1,10 @@
 ---
-title: Wednesday Writing Circle
+title: Wednesday Writing Circle - Canceled!
 performer: n/a
-abstract: Bring your notebook and write freely. All genres welcome, sharing
-  optional. If you have a juicy writing prompt, offer it up! If writing was
-  yoga, this would be a gentle, restorative session. 6-9 PM
+abstract: Due to it being the eve of the Thanksgiving holiday, this Writing
+  Circle instance has been canceled. See you all on December 7th!
 image: /uploads/molly-costello.jpg
 author: Matheson Westlake
 date: 2022-11-23T23:00:50.049Z
 ---
-Bring your notebook and write freely. All genres welcome, sharing optional. If you have a juicy writing prompt, offer it up! If writing was yoga, this would be a gentle, restorative session. 
-
-D﻿ates: 10/19, 11/9, 11/23, 12/7, 12/21, 1/4, 1/18, 2/1, 2/15
-
-6﻿- 9 PM
-
-Suggested donation: $﻿2 partners; $﻿5 non-partners
+Due to it being the eve of the Thanksgiving holiday, this event is canceled. See you all on December 7th!
