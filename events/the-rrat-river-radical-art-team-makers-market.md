@@ -35,7 +35,7 @@ Kicking off our fundraiser to\
 9am-9pm at Soupcon Salon\
 37 Main St. Lambertville, NJ
 
-![RRAT Makers Market Poster](/uploads/rrat-makers-poster.png "RRAT Makers Market Poster")
+![RRAT Makers Market Poster](blob:https://soupcon.salon/58b7ada4-cee4-4bc6-9f43-a5da4291e4e8 "RRAT Makers Market Poster")
 
 \
 **Live music!**\
