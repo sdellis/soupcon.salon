@@ -72,6 +72,12 @@ export default {
 <style>
 .month {
   margin-left: 2em;
+  margin-right: 4em;
+  padding: .5em .5em .5em .5em;
+}
+
+.month:nth-of-type(odd) {
+  background: aliceblue;
 }
 
 .important-note {
