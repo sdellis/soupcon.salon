@@ -4,7 +4,7 @@ performer: Slughead
 abstract: The River Radical Art Team (RRAT) presents Slughead
 image: /uploads/0.jpg
 author: Kate O'Hare
-date: 2022-12-11T23:00:32.738Z
+date: 2022-12-12T00:00:32.738Z
 ---
 $10 members
 $15 non-members
