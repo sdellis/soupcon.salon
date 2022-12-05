@@ -93,9 +93,9 @@
       <h3>Partner Benefits</h3>
       <p>
         Partners pay yearly dues of $120 ($10/month) to join, and can sign up on the website or by
-        visiting the cafe. The dues are used to make sure operations go smoothly,
+        visiting the firehouse and finding a QR code for joining. The dues are used to make sure operations go smoothly,
         to pay the rent, and to maintain equipment and property.
-        It can also be used to fund projects and additional partner benefits.
+        In the future, they may also be used to fund projects and additional partner benefits.
       </p>
       <p>
         Partners currently receive many benefits:
@@ -110,7 +110,10 @@
           Partners are able to gain access and host meetings and events at the historic and beautiful Hibernia Firehouse. This is a beautiful space. All are welcome. The music is local. The projects are fresh. The upstairs lounge is a relaxing sanctuary with wi-fi and air conditioning ready for work, organizing, or socializing. Partners may also reserve the Firehouse as rehearsal space.
         </p>
         <h4>Co-Working Space</h4>
-        <p>Members may use the co-working space on the second floor of the Firehouse, complete with wi-fi and printers. Co-working hours are Monday through Friday, unless otherwise specified.</p>
+        <p>Partners may use the co-working space on the second floor of the Firehouse, complete with wi-fi and printers. Co-working hours are Monday through Friday, unless otherwise specified.</p>
+        </p>
+        <h4>Local Discounts</h4>
+        <p>Partners enjoy discounts at <a href="https://hometownyogalambertville.com/">Hometown Yoga</a>, <a href="https://www.instagram.com/rratclub/">River Radical Art Team (RRAT) events</a>, and more coming soon.</p>
         </p>
         <h4>Support Network</h4>
         <p>Soupçon seeks to offer direct assistance to those experiencing life difficulties.
