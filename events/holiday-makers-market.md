@@ -3,7 +3,7 @@ title: Holiday Maker's Market
 performer: N/A
 abstract: "The Holiday Maker's Market will take place on Dec 18, 2022, from 10
   AM to 5 PM. "
-image: /uploads/0.jpg
+image: /uploads/wassailing.jpeg
 author: Shaun Ellis
 date: 2022-12-18T15:00:09.406Z
 ---
