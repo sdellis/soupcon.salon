@@ -11,8 +11,13 @@
       <!-- </div> -->
       <h2>Our Mission: A Community Center for Lambertville</h2>
       <p
-        <blockquote>"We unite people with the common goals of working on collective excellence and
-          facilitating a voluntary reciprocal exchange of resources and services for mutual benefit."</blockquote>
+        <blockquote>
+          "The mission of Soupçon Salon is to provide a space that
+          unites people to build a more beautiful and equitable world.
+          We connect people through art, music and creative expression,
+          health and wellness, community organizations, social connections,
+          mutual aid, and education."
+        </blockquote>
       </p>
       <p>Our mission statement is a fancy way of saying that we are focused on supporting each other and building relationships by sharing our space, our resources, our effort to help each other realize our visions and live our dreams. Building trusted relationships strengthens our collective ability to create positive change in our backyards and in our community. The Soupçon Salon Firehouse is our Community Center and where these relationships are built.</p>
     </section>
