@@ -6,7 +6,7 @@ abstract: "The Lambertville Film Club screens diverse films that are a starting
   inspire an interest in film culture and its effects on society at large. Twice
   a month meetings will provide space for both selection of films and an
   opportunity to “watch together” to share thoughts and ideas. "
-image: /uploads/film_club.jpg
+image: /uploads/lambertville-film-club.png
 author: Shaun Ellis
 date: 2023-01-09T23:30:30.829Z
 ---
