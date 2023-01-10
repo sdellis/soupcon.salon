@@ -2,13 +2,10 @@
   <Layout>
     <article style="grid-column: 1 / span 2;">
       <div class="welcome">
-      <h1>The idea is simple:</h1>
-      <p>Build community and promote healing by gathering together
-        to share food, tell stories, make art, teach each other, and fill the air with music.
-        We work towards collective excellence, and facilitate a voluntary reciprocal
-        exchange of resources for mutual benefit. This is a radical experiment
-        in creating utopia.</p>
-        <p>You are hereby invited.</p>
+      <h1>Our Mission:</h1>
+      <p>Soupçon Salon provides a space that unites people to build a more beautiful and equitable world.</p>
+      <p>We connect people through art, music and creative expression, health and wellness, community organizations,
+        social connections, mutual aid, and education.</p>
       </div>
     </article>
 
