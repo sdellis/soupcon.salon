@@ -5,7 +5,7 @@ abstract: |-
   Slow Noche ... 7pm
   The Swiss Guard ... 8pm
   Those Looks ... 9pm
-image: /uploads/0.jpg
+image: /uploads/those-looks-soupcon2.jpg
 author: Shaun Ellis
 date: 2023-01-15T00:00:48.408Z
 ---
