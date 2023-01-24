@@ -4,10 +4,8 @@ performer: N/A
 abstract: This is a meeting for Soupçon Partners (members only) to organize,
   plan, and address organizational and facilities issues. All members are
   welcome.
-image: /uploads/screen-shot-2021-05-21-at-12.49.53-pm.png
+image: /uploads/0.jpg
 author: Shaun Ellis
-date: 2022-07-06T23:00:17.895Z
+date: 2023-01-29T15:00:36.375Z
 ---
-This is a meeting for Soupçon Partners (members only) to organize, plan, and address organizational and facilities issues. All members are welcome. 
-
-An official agenda will be posted here within 48 hours of the event, though all members are welcome to suggest agenda items up to that point. Priorities for July are to further develop the leadership structure, an overview of finances, as well as guidelines for the use of the space.
+This is a meeting for Soupçon Partners (members only) to organize, plan, and address organizational and facilities issues. All members are welcome.
