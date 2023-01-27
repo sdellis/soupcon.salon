@@ -5,7 +5,7 @@ abstract: Musical Cuban love story, Chico and Rita, at the ACME theatre followed
   by dance party of dreamy, cinematic soundscapes, classics and curiosities from
   Spanish speaking countries at the firehouse, 37 S Main St. No dance experience
   necessary!
-image: /uploads/screenshot-2023-01-26-at-11.01.34-pm.png
+image: /uploads/screenshot-2023-01-26-at-11.10.23-pm.png
 author: Donna Muchnicki
 date: 2023-02-11T23:00:45.338Z
 ---
