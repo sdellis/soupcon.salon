@@ -29,3 +29,4 @@ collections:
         - {label: "Author", name: "author", widget: "string"}
         - {label: "Date", name: "date", widget: "datetime"}
         - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Approved?", name: "approved", widget: "boolean", default: false}
