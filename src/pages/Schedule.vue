@@ -8,10 +8,14 @@
     <!-- <h2>Events will resume once we make necessary repairs to the building. Thanks for your patience!</h2> -->
     <div v-for="slot in schedule($page.events.edges)" :key="slot.year">
       <h2>{{ slot.month }} {{ slot.year }}</h2>
+
       <div class="month" v-for="event in slot.events" :key="event.id">
-        <h3><a :href="event.event.path">{{ event.event.title }}</a></h3>
-        <h4>{{ formatDate(event.event.date) }}</h4>
-        <p>{{ event.event.abstract }}</p>
+        <div v-bind:class="{ pending: !event.event.approved }">
+          <p v-if="!event.event.approved" class="tag">Pending</p>
+          <h3><a :href="event.event.path">{{ event.event.title }}</a></h3>
+          <h4>{{ formatDate(event.event.date) }}</h4>
+          <p>{{ event.event.abstract }}</p>
+        </div>
       </div>
     </div>
   </article>
@@ -28,6 +32,7 @@ query {
         image
         path
         date
+        approved
       }
     }
   }
@@ -76,6 +81,10 @@ export default {
   padding: .5em .5em .5em .5em;
 }
 
+.pending {
+  opacity: .5;
+}
+
 .month:nth-of-type(odd) {
   background: aliceblue;
 }
@@ -87,5 +96,17 @@ export default {
 
 .note {
   padding: 1em;
+}
+
+.tag {
+  background-color: gray;
+  border: 1px solid darkgray;
+  border-radius: 2em;
+  color: white;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 0 6px;
+  text-align: center;
 }
 </style>
