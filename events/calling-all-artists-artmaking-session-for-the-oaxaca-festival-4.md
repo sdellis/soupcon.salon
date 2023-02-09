@@ -9,8 +9,9 @@ abstract: "Calling all Artists! Help make the first-ever festival in
 image: /uploads/a534e6a7-cf79-418c-bb81-901d630a2cc3.jpeg
 author: Shaun Ellis
 date: 2022-08-20T14:00:00.000Z
+approved: true
 ---
-**Join us from 10am-3pm for the final Art-making session before the festival!** Artists, [check out this video](https://vimeo.com/728492214) to see how you can help! 
+**Join us from 10am-3pm for the final Art-making session before the festival!** Artists, [check out this video](https://vimeo.com/728492214) to see how you can help!
 
 Details about the festival:
 

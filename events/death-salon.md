@@ -7,5 +7,6 @@ abstract: A group exploration of individual experiences of grief & dying. This
 image: /uploads/a-very-soupçon-death-salon-2-.png
 author: Shaun Ellis
 date: 2022-12-09T00:00:03.770Z
+approved: true
 ---
 A group exploration of individual experiences of grief & dying. More details to come.

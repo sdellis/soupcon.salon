@@ -6,6 +6,7 @@ abstract: Kickoff meeting for Lambertville Porchfest 2022! All are welcome to
 image: /uploads/porchfest-promo-image.jpg
 author: Shaun Ellis
 date: 2022-07-09T14:00:44.285Z
+approved: true
 ---
 Kickoff meeting for Lambertville Porchfest 2022!
 

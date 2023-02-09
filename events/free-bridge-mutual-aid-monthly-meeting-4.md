@@ -6,6 +6,7 @@ abstract: "Our project Ride Free offers free transportation to Lambertville, NJ
 image: /uploads/c0cff8d7-a155-458d-8355-9748e0a4df11-filomena-hengst.png
 author: Filomena Hengst
 date: 2023-02-23T00:00:08.645Z
+approved: true
 ---
 Call to schedule a ride with as much notice as possible.
 tinyurl.com/donatetests

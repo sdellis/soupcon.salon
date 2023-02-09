@@ -7,6 +7,7 @@ abstract: Chris Harford is a true artist and embodies what Soupçon Salon is a
 image: /uploads/band-of-changes-painting-by-chris-harford.jpeg
 author: Shaun Ellis
 date: 2021-07-26T23:00:00.000Z
+approved: true
 ---
 Chris Harford is a true artist and embodies what Soupçon Salon is all about. Harford has been a prolific painter and musician for decades, and his legend only continues to expand.
 

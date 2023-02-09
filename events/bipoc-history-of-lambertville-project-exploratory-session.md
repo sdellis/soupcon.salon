@@ -6,6 +6,7 @@ abstract: The City of Lambertville Human Rights Council is leading a preliminary
 image: /uploads/screen-shot-2021-07-04-at-9.40.19-pm.png
 author: Shaun Ellis
 date: 2021-07-21T22:00:34.573Z
+approved: true
 ---
 The City of Lambertville Human Rights Council is leading a preliminary exploration of a local BIPOC history project. Meeting agenda to be posted soon.
 

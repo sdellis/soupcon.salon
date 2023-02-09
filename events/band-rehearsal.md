@@ -5,5 +5,6 @@ abstract: Laura Blinderman
 image: /uploads/0.jpg
 author: Laura Blinderman
 date: 2023-02-26T17:00:41.532Z
+approved: true
 ---
 Band rehearsal, Laura Blinderman
