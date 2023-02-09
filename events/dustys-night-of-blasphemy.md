@@ -5,6 +5,7 @@ abstract: Dopeness.
 image: /uploads/djdustyoat.png
 author: Shaun Ellis
 date: 2021-08-01T00:00:10.196Z
+approved: true
 ---
 Due to possible COVID exposure, The Night of Blasphemy is canceled. We will reschedule this at a later date.
 

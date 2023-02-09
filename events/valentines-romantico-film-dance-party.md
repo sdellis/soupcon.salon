@@ -8,6 +8,7 @@ abstract: Musical Cuban love story, Chico and Rita, at the ACME theatre followed
 image: /uploads/screenshot-2023-01-26-at-11.10.23-pm.png
 author: Donna Muchnicki
 date: 2023-02-11T23:00:45.338Z
+approved: true
 ---
 LATIN FILM & DANCE PARTY
 

@@ -9,6 +9,7 @@ abstract: "Who ever said housekeeping had to be dull? Partners, come help us do
 image: /uploads/hibernia-upstairs.jpg
 author: Shaun Ellis
 date: 2022-10-09T14:00:58.132Z
+approved: true
 ---
 Who ever said housekeeping had to be dull? Partners, come help us do the things that will make it feel like home and allow us to host a variety of event types (lecture, concert, dance, workshop/classroom, meeting, etc) with minimal effort. Music, food, and good company will be in abundance.
 

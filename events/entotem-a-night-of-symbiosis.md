@@ -5,6 +5,7 @@ abstract: "ENTOTEM: a Night of Symbiosis. Art Gallery, Live Music, & After Party
 image: /uploads/entotem.jpeg
 author: Clynn Gett
 date: 2021-08-07T23:00:30.945Z
+approved: true
 ---
 sym·bi·o·sis\
 /ˌsimbīˈōsəs,ˌsimbēˈōsəs/\

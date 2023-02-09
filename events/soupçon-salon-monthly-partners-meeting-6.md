@@ -7,5 +7,6 @@ abstract: This is a meeting for Soupçon Partners (members only) to organize,
 image: /uploads/0.jpg
 author: Shaun Ellis
 date: 2023-07-23T14:00:44.566Z
+approved: true
 ---
 This is a meeting for Soupçon Partners (members only) to organize, plan, and address organizational and facilities issues. All members are welcome.
