@@ -14,7 +14,7 @@
             <g-link class="nav__link" to="/about/">How it Works</g-link>
             <!--<g-link class="nav__link" to="/about/">How it Works</g-link>-->
             <!-- <g-link class="nav__link" to="https://soupcon-salon.square.site/">Become a Partner</g-link> -->
-            <g-link class="nav__link" to="https://buy.stripe.com/4gwdRp2qw2Q47Be4gg">Become a Partner</g-link>
+            <g-link class="nav__link" to="/support/">Support Soupçon</g-link>
           </nav>
         </header>
         <div class="subheader">
