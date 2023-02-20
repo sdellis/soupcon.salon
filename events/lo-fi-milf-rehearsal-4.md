@@ -1,10 +1,10 @@
 ---
-title: "Lo-Fi Milf rehearsal "
-performer: Billie's band
+title: Private Band Rehearsal
+performer: Chris
 abstract: Private Rehearsal
 image: /uploads/0.jpg
-author: Billie
-date: 2023-03-23T15:00:34.057Z
-approved: true
+author: Chris
+date: 2023-02-28T22:30:34.057Z
+approved: false
 ---
 Private rehearsal!
