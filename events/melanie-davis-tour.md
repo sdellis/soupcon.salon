@@ -1,5 +1,5 @@
 ---
-title: "Melanie Davis Tour "
+title: Melanie Davis Tour
 performer: Melanie Davis
 abstract: |-
   RRAT club presents Melanie Davis Tour
