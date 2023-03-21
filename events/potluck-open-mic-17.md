@@ -3,6 +3,7 @@ title: Potluck / Open Mic
 performer: Open Mic
 abstract: Join us for good food and conversation as local musicians, poets,
   comedians, and other performers share their talents. 7-9pm. Open to all.
+  Billie is the host/MC.
 image: /uploads/potluck-dinner-table-1400x706.jpeg
 author: Shaun Ellis
 date: 2023-03-24T23:00:00.000Z
