@@ -5,8 +5,7 @@ performer: Theo Stieve
 abstract: >-
   Join us for a Theo Stieve's posthumous retrospective art exhibition from
   4pm-7pm. We will kick off a silent auction of the artist's work that will help
-  support Theo's children. Attendees are encouraged to stay for a Latin Dance
-  Party immediately after.  
+  support Theo's children.
 
 
   The silent auction will conclude during a the Closing Reception and Celebration of Life on May 12th (7-10pm) during which friends and family are encouraged to share stories, poems, and songs in an open mic style.
