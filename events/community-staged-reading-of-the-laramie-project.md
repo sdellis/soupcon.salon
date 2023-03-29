@@ -1,7 +1,7 @@
 ---
-title: Community Staged-reading of "The Laramie Project"
+title: Community-Staged Reading of "The Laramie Project"
 performer: Katherine Kahrs
-abstract: A Community Staged-reading of "The Laramie Project" by Moises Kaufman
+abstract: A Community-Staged Reading of "The Laramie Project" by Moises Kaufman
   and the Tectonic Theater Project, directed by Janet Quartarone and produced by
   Katherine Kahrs and The Strand Arts Collaborative.
 image: /uploads/0.jpg
