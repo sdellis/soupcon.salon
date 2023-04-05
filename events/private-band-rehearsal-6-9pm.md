@@ -1,10 +1,10 @@
 ---
-title: Private band rehearsal, 6-9pm
+title: Private band rehearsal
 performer: Lou Sparre
-abstract: Private band rehearsal, 6-9pm
+abstract: Private band rehearsal, 7-9pm
 image: /uploads/0.jpg
 author: Kelly Bolding
-date: 2023-04-11T22:00:27.905Z
+date: 2023-04-11T23:00:27.905Z
 approved: false
 ---
-Private band rehearsal, 6-9pm
+Private band rehearsal, 7-9pm
