@@ -12,7 +12,7 @@ abstract: >
 
 
   7-9pm
-image: /uploads/0.jpg
+image: /uploads/tea-soupcon-online-image-3.jpg
 author: Kelly Bolding
 date: 2023-04-19T23:00:03.348Z
 approved: false
@@ -28,3 +28,5 @@ Join us in a fascinating and fun journey of discovery leading to greater intuiti
 In many languages the etymology of words for "spirit" reveal an ancient assumption that the spirit is connected to respiration. Many modern cultures no longer consider this intuitive, or have lost that connotation altogether.
 
 In this informal talk presented by Eirik Storesund, Old Norse Researcher, Author, and Philologist, the complex and strange ideas that tie together mind, spirit and breath in the Nordic imagination from ancient times until today will be explored. A group discussion will follow afterwards.
+
+![](/uploads/tea-soupcon-online-image-3.jpg)
