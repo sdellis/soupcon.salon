@@ -4,7 +4,7 @@ performer: Katherine Kahrs
 abstract: A Community-Staged Reading of "The Laramie Project" by Moises Kaufman
   and the Tectonic Theater Project, directed by Janet Quartarone and produced by
   Katherine Kahrs and The Strand Arts Collaborative.
-image: /uploads/0.jpg
+image: /uploads/the-laramie-project-e-flyer-soupcon-.jpg
 author: Kelly Bolding
 date: 2023-05-11T23:00:36.472Z
 approved: false
