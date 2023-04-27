@@ -11,7 +11,7 @@ abstract: >-
 image: /uploads/0.jpg
 author: Kelly Bolding
 date: 2023-05-02T22:00:35.328Z
-approved: false
+approved: true
 ---
 Ready to open your voice and tap into the magic of singing in community? Singing sacred songs together can be an unbelievably ecstatic experience of healing and belonging.
 
