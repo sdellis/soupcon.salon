@@ -15,7 +15,7 @@ abstract: >
 image: /uploads/tea-soupcon-online-image-3.jpg
 author: Kelly Bolding
 date: 2023-05-17T23:00:45.554Z
-approved: false
+approved: true
 ---
 **THE ESOTERIC ADYTUM (monthly meetings - 3rd Wednesdays, 7-9pm)**
 
