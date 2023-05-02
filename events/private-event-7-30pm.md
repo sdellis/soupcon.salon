@@ -1,5 +1,5 @@
 ---
-title: Private Event 7:30pm
+title: Private Event 7:00pm
 performer: Jason C
 abstract: Beginning at 7:30pm
 image: /uploads/0.jpg
