@@ -8,3 +8,5 @@ date: 2023-05-23T22:30:40.762Z
 approved: false
 ---
 Private band rehearsal, 6-9pm
+
+L﻿ou Sparre
