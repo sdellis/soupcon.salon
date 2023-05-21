@@ -1,5 +1,5 @@
 ---
-title: Christina Ward, Our Bodies Themselves, Clockwise on Fire
+title: Christina Ward, Our Bodies Themselves, Clockwise on Fire (location change TBD)
 performer: Joey Gilligan
 abstract: Live show!
 image: /uploads/0.jpg
