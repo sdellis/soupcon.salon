@@ -1,10 +1,12 @@
 ---
-title: Indivisible Meeting
+title: Indivisible Community Gathering Potluck
 performer: Elizabeth O’Donnell
-abstract: "Community Gathering "
+abstract: Indivisible Community Gathering. All are welcome!
 image: /uploads/0.jpg
 author: Elizabeth O’Donnell
-date: 2023-03-19T20:00:14.201Z
+date: 2023-06-22T22:00:14.201Z
 approved: true
 ---
-Indivisible community meeting.
+Indivisible community meeting. All are welcome!
+
+It is the mission of Indivisible Lambertville New Hope, a 501(c)(4) corporation, to educate, motivate and activate constituents in the work to restore, preserve and extend democratic rights for all citizens. Indivisible Lambertville/New Hope seeks to provide our communities with the resources, power, and opportunities that encourage and enable ​sustained engagement in all levels of democracy.
