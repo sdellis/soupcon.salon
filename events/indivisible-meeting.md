@@ -1,7 +1,11 @@
 ---
 title: Indivisible Community Gathering Potluck
 performer: Elizabeth O’Donnell
-abstract: Indivisible Community Gathering. All are welcome!
+abstract: >-
+  Indivisible Community Gathering. All are welcome! 
+
+
+  Indivisible is a local 501(c)4 organization whose vision is to build a community where every eligible voter has the resources and ability to participate freely in an equitable democracy. 
 image: /uploads/0.jpg
 author: Elizabeth O’Donnell
 date: 2023-06-22T22:00:14.201Z
