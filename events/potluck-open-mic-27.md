@@ -1,13 +1,11 @@
 ---
-title: Potluck / Open Mic
+title: Potluck / Open Mic - CANCELLED
 performer: Open Mic
-abstract: "Join us for good food and conversation as local musicians, poets,
-  comedians, and other performers share their talents. 7-9pm. Open to all. "
+abstract: Keep an eye on the website! We'll be announcing summer open mics in
+  other locations soon!
 image: /uploads/potluck-dinner-table-1400x706.jpeg
 author: Shaun Ellis
 date: 2023-06-30T23:00:29.395Z
 approved: true
 ---
-Join us for good food and conversation as local musicians, poets, comedians, and other performers share their talents. 7-9pm. Open to all. Bring a dish to share. 
-
-Suggested $5 donation to the Salon. (No one will be turned away for lack of funds.)
+Keep an eye on the website! We'll be announcing summer open mics in other locations soon!
