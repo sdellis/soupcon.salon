@@ -17,17 +17,20 @@ Theatre Group Dzieci's
 
 ***MACBET***
 
-The very essence of theatre and storytelling in a one-act, rendition of Shakespeare’s classic!
-
+The very essence of theatre and storytelling in a one-act, rendition of Shakespeare’s classic!\
 ... and A "Paratheatrical WORKSHOP" with Theatre Group Dzieci (NYC)
 
 ***"Prepare to be spellbound!"***
 
 **\-﻿------------**
 
-**THE LAMBERTVILLE MUSIC HALL**\
+**THE LAMBERTVILLE MUSIC HALL**
+
 **57 Bridge Street** \
+\
 **Lambertville, NJ 08530**
+
+**\-﻿------------**
 
 **3:30 pm** 
 
