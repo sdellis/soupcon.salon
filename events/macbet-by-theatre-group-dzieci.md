@@ -22,22 +22,17 @@ The very essence of theatre and storytelling in a one-act, rendition of Shakespe
 
 ***"Prepare to be spellbound!"***
 
-**\-﻿------------**
+**-﻿------------**
 
 **THE LAMBERTVILLE MUSIC HALL**
 **57 Bridge Street** 
 **Lambertville, NJ 08530**
 
-**\-﻿------------**
+**-﻿------------**
 
-**3:30 pm** 
+**3:30 pm**: Daytime Paratheatrical workshop with Dzieci (limited seats available)
 
-**Daytime Paratheatrical workshop with Dzieci** (limited seats available)\
-\*\*
-
-7:00 pm\*\* 
-
-***Evening Performance of 'Macbet'***
+**7:00 pm**: Evening Performance of 'Macbet'
 
 **$20-$40** (sliding scale)
 
@@ -45,7 +40,7 @@ The very essence of theatre and storytelling in a one-act, rendition of Shakespe
 
 **(You will want to attend the preshow!)**
 
-**\-﻿------------**
+**-﻿------------**
 
 **Proceeds benefit Soupcon Salon**
 
