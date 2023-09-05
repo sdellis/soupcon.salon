@@ -1,31 +1,11 @@
 ---
 title: MACBET by Theatre Group Dzieci
 performer: Theatre Group Dzieci
-abstract: >-
-  Owl-Light Theater and Soupcon Salon Presents
-
-
-  Theatre Group Dzieci's production of 
-
-
-  ***MACBET***
-
-
-  The very essence of theatre and storytelling in a one-act, rendition of Shakespeare’s classic... 
-
-  and an afternoon "Paratheatrical WORKSHOP" with Theatre Group Dzieci (NYC)
-
-
-  ***"Prepare to be spellbound!"***
-
-
-  October 21, 2023 @7pm
-
-  THE LAMBERTVILLE MUSIC HALL
-
-  57 Bridge Street
-
-  Lambertville, NJ 08530
+abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
+  production of MACBET, the very essence of theatre and storytelling in a
+  one-act, rendition of Shakespeare’s classic... and an afternoon
+  \"Paratheatrical WORKSHOP\" with Theatre Group Dzieci (NYC) ***\"Prepare to be
+  spellbound!\"***"
 image: /uploads/mkbcardfront.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
@@ -39,9 +19,7 @@ Theatre Group Dzieci's
 
 The very essence of theatre and storytelling in a one-act, rendition of Shakespeare’s classic!
 
-and \
-\
-A Paratheatrical WORKSHOP with Theatre Group Dzieci (NYC)
+... and A "Paratheatrical WORKSHOP" with Theatre Group Dzieci (NYC)
 
 ***"Prepare to be spellbound!"***
 
