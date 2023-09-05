@@ -29,7 +29,7 @@ abstract: >-
 image: /uploads/mkbcardfront.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
-approved: true
+approved: false
 ---
 Owl-Light Theater and Soupcon Salon Presents
 
@@ -45,20 +45,15 @@ A Paratheatrical WORKSHOP with Theatre Group Dzieci (NYC)
 
 ***"Prepare to be spellbound!"***
 
+**\-﻿------------**
 
-
-**THE LAMBERTVILLE MUSIC HALL**
-
-**57 Bridge Street** 
-
+**THE LAMBERTVILLE MUSIC HALL**\
+**57 Bridge Street** \
 **Lambertville, NJ 08530**
-
-
 
 **3:30 pm** 
 
-**Daytime Paratheatrical workshop with Dzieci** (limited seats available)
-
+**Daytime Paratheatrical workshop with Dzieci** (limited seats available)\
 **\
 7:00 pm** 
 
@@ -69,6 +64,8 @@ A Paratheatrical WORKSHOP with Theatre Group Dzieci (NYC)
 **DOORS OPEN at 6:30 pm for the PRE-SHOW,** 
 
 **(You will want to attend the preshow!)**
+
+**\-﻿------------**
 
 **Proceeds benefit Soupcon Salon**
 
