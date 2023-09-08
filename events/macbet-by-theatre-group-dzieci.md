@@ -1,5 +1,5 @@
 ---
-title: MAKBET by Theatre Group Dzieci
+title: MAKBET by Theatre Group Dzieci (NYC)
 performer: Theatre Group Dzieci
 abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
   production of MAKBET, the very essence of theatre and storytelling in a
