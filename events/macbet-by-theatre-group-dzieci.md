@@ -35,7 +35,10 @@ Arrive at **6:30pm** for live music, divination an**d** just a touch of mis
 
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
-**3:30pm** [Para-theatre ](http://dziecitheatre.org/the-work/workshops/)[workshop](http://dziecitheatre.org/the-work/workshops/) w​ith Theatre Group Dzieci, 1.5 hours.                                                               \
+## ***Para-theatre Workshop***
+
+**3:30pm** [Para-theatre ](http://dziecitheatre.org/the-work/workshops/)[workshop](http://dziecitheatre.org/the-work/workshops/) w​ith Theatre Group Dzieci, 1.5 hours.
+
 No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Space is limited.
 
 The Dzieci Workshop employs elements of ensemble theatre, meditation, psychotherapy, and ritual, to produce an event that leads towards a heightening of consciousness and a deepening of community.  
