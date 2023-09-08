@@ -31,6 +31,8 @@ Arrive at **6:30pm** for live music, divination an**d** just a touch of mis
 
 ## [P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
 
+![Makbet actors in dramatic pose](/uploads/makbet.png "Makbet")
+
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
 ***Para-theatre Workshop***
