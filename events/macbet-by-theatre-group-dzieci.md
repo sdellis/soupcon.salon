@@ -1,8 +1,8 @@
 ---
-title: MACBET by Theatre Group Dzieci
+title: MAKBET by Theatre Group Dzieci
 performer: Theatre Group Dzieci
 abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
-  production of MACBET, the very essence of theatre and storytelling in a
+  production of MAKBET, the very essence of theatre and storytelling in a
   one-act, rendition of Shakespeare’s classic... and an afternoon
   \"Paratheatrical WORKSHOP\" with Theatre Group Dzieci (NYC) ***\"Prepare to be
   spellbound!\"***"
@@ -11,39 +11,47 @@ author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
 approved: false
 ---
-*Owl-Light Theater and Soupcon Salon Present:*
+# NYC's *Theatre Group Dzieci* 
 
-Theatre Group Dzieci's
+Presented by Owl-light Theater an Soupçon Salon
 
-***MACBET***
+**Saturday, October 21, 2023** 
 
-The very essence of theatre and storytelling in a one-act, rendition of Shakespeare’s classic!
-... and A "Paratheatrical WORKSHOP" with Theatre Group Dzieci (NYC)
+**The Lambertville Music Hall, 57 Bridge Street, Lambertville, NJ 08530**
 
-***"Prepare to be spellbound!"***
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**-﻿------------**
+# ***'[Makbet](http://dziecitheatre.org/the-work/makbet/) '***
 
-**THE LAMBERTVILLE MUSIC HALL**
-**57 Bridge Street** 
-**Lambertville, NJ 08530**
+**The very essence of theatre and storytelling in a spellbinding production of  Shakespeare’s classic! **
 
-**-﻿------------**
+**7:00pm** ***Makbet*** 1.5 hours, no intermission.                                                                                              
 
-**3:30 pm**: Daytime Paratheatrical workshop with Dzieci (limited seats available)
+Arrive at **6:30pm** for live music, divination an**d** just a touch of mischief! 
 
-**7:00 pm**: Evening Performance of 'Macbet'
+***Tickets: $20-$40 (***Sliding scale)
 
-**$20-$40** (sliding scale)
+## [P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
 
-**DOORS OPEN at 6:30 pm for the PRE-SHOW,** 
+***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
-**(You will want to attend the preshow!)**
+**3:30pm** [Para-theatre ](http://dziecitheatre.org/the-work/workshops/)[workshop](http://dziecitheatre.org/the-work/workshops/) w​ith Theatre Group Dzieci, 1.5 hours.                                                               \
+No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Space is limited.
 
-**-﻿------------**
+The Dzieci Workshop employs elements of ensemble theatre, meditation, psychotherapy, and ritual, to produce an event that leads towards a heightening of consciousness and a deepening of community.  
 
-**Proceeds benefit Soupcon Salon**
+![Screenshot 2023-09-06 9.35.07 AM.png](https://mail.google.com/mail/u/0?ui=2&ik=a9569e3c2a&attid=0.0.1&permmsgid=msg-f:1776296455834735189&th=18a6ac3721d09255&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8KuJONkGNOTaSEGKQuVLFkt_t60jAFr8m7_ja6IIQHticZ48Ww6LHXRn5_PnUoep20Dw-lyHqe-nwQHxy_cYGxaqw6pn-TIIWvWJRDAymDkfzYWnkjv2KjaLQ&disp=emb&realattid=ii_lm7sca7l3)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+Join us for one or both of the day's events to journey into the realm of ritualistic theatre and ***"Prepare to be spellbound!"***
+
+**Proceeds benefit Soupçon Salon.**
 
 **For more information about Dzieci Theatre visit** 
 
 <http://dziecitheatre.org/>
+
+**For information about Owl-Light Theater visit**
+
+[www.owllighttheater.com](http://www.owllighttheater.com/)
