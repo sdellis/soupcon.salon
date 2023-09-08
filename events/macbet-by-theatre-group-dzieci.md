@@ -11,8 +11,6 @@ author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
 approved: false
 ---
-# NYC's *Theatre Group Dzieci* 
-
 Presented by Owl-light Theater an Soupçon Salon
 
 **Saturday, October 21, 2023** 
@@ -21,9 +19,9 @@ Presented by Owl-light Theater an Soupçon Salon
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-# ***'[Makbet](http://dziecitheatre.org/the-work/makbet/) '***
+# ***[Makbet](http://dziecitheatre.org/the-work/makbet/)***
 
-**The very essence of theatre and storytelling in a spellbinding production of  Shakespeare’s classic! **
+**The very essence of theatre and storytelling in a spellbinding production of  Shakespeare’s classic!** 
 
 **7:00pm** ***Makbet*** 1.5 hours, no intermission.                                                                                              
 
@@ -35,7 +33,7 @@ Arrive at **6:30pm** for live music, divination an**d** just a touch of mis
 
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
-## ***Para-theatre Workshop***
+***Para-theatre Workshop***
 
 **3:30pm** [Para-theatre ](http://dziecitheatre.org/the-work/workshops/)[workshop](http://dziecitheatre.org/the-work/workshops/) w​ith Theatre Group Dzieci, 1.5 hours.
 
