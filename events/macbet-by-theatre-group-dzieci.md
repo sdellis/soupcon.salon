@@ -43,7 +43,7 @@ No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Sp
 
 The Dzieci Workshop employs elements of ensemble theatre, meditation, psychotherapy, and ritual, to produce an event that leads towards a heightening of consciousness and a deepening of community.  
 
-![Screenshot 2023-09-06 9.35.07 AM.png](/uploads/workshop.jpg)
+![Para-theatre Workshop](/uploads/workshop.jpg "Para-theatre Workshop")
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
