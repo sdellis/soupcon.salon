@@ -31,7 +31,7 @@ Arrive at **6:30pm** for live music, divination an**d** just a touch of mis
 
 ## [P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
 
-![Makbet actors in dramatic pose](/uploads/makbet.png "Makbet")
+![Makbet actors in dramatic pose](/uploads/makbet.jpg "Makbet")
 
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
@@ -43,7 +43,7 @@ No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Sp
 
 The Dzieci Workshop employs elements of ensemble theatre, meditation, psychotherapy, and ritual, to produce an event that leads towards a heightening of consciousness and a deepening of community.  
 
-![Screenshot 2023-09-06 9.35.07 AM.png](https://mail.google.com/mail/u/0?ui=2&ik=a9569e3c2a&attid=0.0.1&permmsgid=msg-f:1776296455834735189&th=18a6ac3721d09255&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8KuJONkGNOTaSEGKQuVLFkt_t60jAFr8m7_ja6IIQHticZ48Ww6LHXRn5_PnUoep20Dw-lyHqe-nwQHxy_cYGxaqw6pn-TIIWvWJRDAymDkfzYWnkjv2KjaLQ&disp=emb&realattid=ii_lm7sca7l3)
+![Screenshot 2023-09-06 9.35.07 AM.png](/uploads/workshop.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
