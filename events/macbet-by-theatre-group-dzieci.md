@@ -6,12 +6,12 @@ abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
   one-act, rendition of Shakespeare’s classic... and an afternoon
   \"Paratheatrical WORKSHOP\" with Theatre Group Dzieci (NYC) ***\"Prepare to be
   spellbound!\"***"
-image: /uploads/makbet-banner.jpg
+image: /uploads/mkbcardfront.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
 approved: true
 ---
-Presented by Owl-light Theater an Soupçon Salon
+Presented by Owl-light Theater and Soupçon Salon
 
 **Saturday, October 21, 2023** 
 
