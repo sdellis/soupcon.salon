@@ -6,7 +6,7 @@ abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
   one-act, rendition of Shakespeare’s classic... and an afternoon
   \"Paratheatrical WORKSHOP\" with Theatre Group Dzieci (NYC) ***\"Prepare to be
   spellbound!\"***"
-image: /uploads/mkbcardfront.jpg
+image: /uploads/makbet-banner.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
 approved: true
