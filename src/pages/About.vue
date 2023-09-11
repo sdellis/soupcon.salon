@@ -110,10 +110,9 @@
         <p>
           Not that we see it as a "benefit," since inclusivity should simply be the way things are. But it's important to note that we design our society with a commitment to including all. We work together to dismantle internalized systems of oppression and keep each other accountable. We support and center our most vulnerable and our most oppressed members of the community and society at large.
         </p>
-        <h4>Access to and Use of The Firehouse</h4>
-        <g-image alt="Soupçon Salon Firehouse" src="~/SOUPCON-FIREHOUSE.jpg" width="600px" fit="contain" />
+        <h4>Access to and Use of The Space</h4>
         <p>
-          Partners are able to gain access and host meetings and events at the historic and beautiful Hibernia Firehouse. This is a beautiful space. All are welcome. The music is local. The projects are fresh. The upstairs lounge is a relaxing sanctuary with wi-fi and air conditioning ready for work, organizing, or socializing. Partners may also reserve the Firehouse as rehearsal space.
+          Partners are able to gain access and host meetings and events at our space. We are currently moving, so stay tuned for updates about our new space. All are welcome. The music is local. The projects are fresh. The upstairs lounge is a relaxing sanctuary with wi-fi and air conditioning ready for work, organizing, or socializing. Partners may also reserve the Firehouse as rehearsal space.
         </p>
         <h4>Co-Working Space</h4>
         <p>Partners may use the co-working space on the second floor of the Firehouse, complete with wi-fi and printers. Co-working hours are Monday through Friday, unless otherwise specified.</p>
