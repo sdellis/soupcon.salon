@@ -29,7 +29,7 @@ Arrive at **6:30pm** for live music, divination and just a touch of mischie
 
 ***Tickets: $20-$40*** (Sliding scale)
 
-## [P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
+## [CLICK HERE TO P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
 
 ![Makbet actors in dramatic pose](/uploads/makbet.jpg "Makbet")
 
