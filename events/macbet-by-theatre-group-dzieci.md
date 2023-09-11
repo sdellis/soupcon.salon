@@ -6,7 +6,7 @@ abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
   one-act, rendition of Shakespeare’s classic... and an afternoon
   \"Paratheatrical WORKSHOP\" with Theatre Group Dzieci (NYC) ***\"Prepare to be
   spellbound!\"***"
-image: /uploads/mkbcardfront.jpg
+image: /uploads/makbet.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
 approved: true
@@ -30,8 +30,6 @@ Arrive at **6:30pm** for live music, divination and just a touch of mischie
 ***Tickets: $20-$40*** (Sliding scale)
 
 ## [CLICK HERE TO P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
-
-![Makbet actors in dramatic pose](/uploads/makbet.jpg "Makbet")
 
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__***
 
