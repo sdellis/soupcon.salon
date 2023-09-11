@@ -9,7 +9,7 @@ abstract: "Owl-Light Theater and Soupcon Salon Presents: Theatre Group Dzieci's
 image: /uploads/mkbcardfront.jpg
 author: Shaun Ellis
 date: 2023-10-21T22:30:29.107Z
-approved: false
+approved: true
 ---
 Presented by Owl-light Theater an Soupçon Salon
 
@@ -23,11 +23,9 @@ Presented by Owl-light Theater an Soupçon Salon
 
 **The very essence of theatre and storytelling in a spellbinding production of  Shakespeare’s classic!** 
 
-**7:00pm** ***Makbet*** 1.5 hours, no intermission.                                                                                              
+**7:00pm** ***Makbet*** 1.5 hours, no intermission.                                Arrive at **6:30pm** for live music, divination and just a touch of mischief! 
 
-Arrive at **6:30pm** for live music, divination an**d** just a touch of mischief! 
-
-***Tickets: $20-$40 (***Sliding scale)
+***Tickets: $20-$40*** (Sliding scale)
 
 ## [P﻿URCHASE TICKETS](https://buy.stripe.com/28ofZx2qw1M02gU28p)
 
@@ -39,7 +37,7 @@ Arrive at **6:30pm** for live music, divination an**d** just a touch of mis
 
 **3:30pm** [Para-theatre ](http://dziecitheatre.org/the-work/workshops/)[workshop](http://dziecitheatre.org/the-work/workshops/) w​ith Theatre Group Dzieci, 1.5 hours.
 
-No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Space is limited.
+No acting experience necessary. No cost to attend. RESERVATION IS REQUIRED. Space is limited. RSVP kkahrs3@gmail.com for the workshop only.
 
 The Dzieci Workshop employs elements of ensemble theatre, meditation, psychotherapy, and ritual, to produce an event that leads towards a heightening of consciousness and a deepening of community.  
 
