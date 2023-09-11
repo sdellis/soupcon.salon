@@ -21,7 +21,7 @@
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon is a member-supported community center for Lambertville, and so much more, located at 37 South Main Street.
+            Soupçon Salon is a member-supported community center for Lambertville, and so much more. We are moving, so stay tuned for our new location!
           </p>
         </div>
         <main>
