@@ -23,7 +23,9 @@ Presented by Owl-light Theater an Soupçon Salon
 
 **The very essence of theatre and storytelling in a spellbinding production of  Shakespeare’s classic!** 
 
-**7:00pm** ***Makbet*** 1.5 hours, no intermission.                                Arrive at **6:30pm** for live music, divination and just a touch of mischief! 
+**7:00pm** ***Makbet*** 1.5 hours, no intermission.                                
+
+Arrive at **6:30pm** for live music, divination and just a touch of mischief! 
 
 ***Tickets: $20-$40*** (Sliding scale)
 
