@@ -56,3 +56,5 @@ Join us for one or both of the day's events to journey into the realm of ritual
 **For information about Owl-Light Theater visit**
 
 [www.owllighttheater.com](http://www.owllighttheater.com/)
+
+W﻿e can provide wheelchair access to this event. If you need accommodations, please reach out via email to shaun(at)sdellis.com.
