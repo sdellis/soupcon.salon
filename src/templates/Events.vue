@@ -77,4 +77,7 @@ export default {
   margin-right: 15px;
   color: #333;
 }
+#click-here-to-p-urchase-tickets a {
+  color:red;
+}
 </style>
