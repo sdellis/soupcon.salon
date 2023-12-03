@@ -2,13 +2,13 @@
   <Layout>
     <article>
     <h1>Schedule of Events</h1>
-    <p class="important-note"><em>Are you a Soupçon Salon partner (aka, "member") and have a great idea for an event? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKQ_bnHmbhXHlhXxc3BXQYwkzW-Kz4nGTY0khFH06PJUs5kw/viewform">Propose your event here</a> and we'll work with you to get it on the schedule!</em>
+    <p class="important-note"><em>Are you a Soupçon Salon partner (aka, "member") and have a great idea for an event? <a href="https://groups.google.com/g/soupcon-partners">Propose your event on the list</a> and we'll work with you to get it on the schedule if we can!</em>
       <br/>
       <input type="checkbox" id="pending" v-model="showPending">
       <label for="pending">Show pending events.</label>
     </p>
-    <p class="note"><strong>Co-Working at the Firehouse takes place Monday through Friday from 9:00am to 5:00pm. Open to all Partners and includes use of printers and Wi-Fi.</strong>
-    <br/>Please keep an eye on the Partners email list for cancelations, or reach out to that list for more info.</p>
+    <p class="note">
+    <br/>Please keep an eye on the <a href="https://groups.google.com/g/soupcon-partners">Partners email list</a> for last minute cancelations, or reach out to that list for more info.</p>
     <!-- <h2>Events will resume once we make necessary repairs to the building. Thanks for your patience!</h2> -->
     <div v-if="!showPending" v-for="slot in schedule($page.events.edges)" :key="slot.year">
       <h2>{{ slot.month }} {{ slot.year }}</h2>
