@@ -26,7 +26,7 @@
       <h2>Make a One-time Donation to Soupçon Salon</h2>
       <a href="https://buy.stripe.com/dR6dRpd5aeyM2gUcMQ">Donate now!</a>
     </div>
-
+<!--
     <p class="important-note"><em>
       Please note that all funding goes directly into maintaining the facilities and improving our programming. Here is our current income and expense breakdown.</em><br/>
       <br/>
@@ -34,6 +34,7 @@
       &nbsp;&nbsp;
       <g-image alt="Soupçon Salon Expense" src="~/expenses.png" width="400px" />
     </p>
+-->
   </article>
   </Layout>
 </template>
