@@ -21,7 +21,7 @@
           <!--<p><em>"Everything worthwhile is done with others," -Moussa Kaba</em>
           </p>-->
           <p style="color: #FD4659;">
-            Soupçon Salon is a member-supported community center for Lambertville, and so much more. We are moving, so stay tuned for our new location!
+            Soupçon Salon connects creators who dream of a better tomorrow. We are currently <a href="https://forms.gle/nTZCPiAheGkxQN2z5"> accepting applications for free partnerships</a>, made possible by the Hunterdon County Cultural &amp; Heritage Commission.
           </p>
         </div>
         <main>
