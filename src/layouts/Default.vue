@@ -28,7 +28,7 @@
           <slot/>
         </main>
         <footer>
-          <g-image class="hc-logo" alt="Hunterdon County Cultural Arts Commission" src="~/hc-cultural-arts-logo.png" width="400px" />
+          <g-image class="hc-logo" alt="Made possible by the Hunterdon County Cultural Arts Commission" src="~/HCCHC-web-logo.png"/>
 
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <!-- Begin Mailchimp Signup Form
@@ -133,7 +133,8 @@ header {
 
 footer {
   /* grid-area: footer; */
-  background: #f5f5f5;
+  /* background: #f5f5f5; */
+  background: #FFF;
   color: #333;
   padding: 20px;
   display: flex;
@@ -153,6 +154,10 @@ footer {
 
 .logo {
   margin-top: -8px;
+}
+
+.hc-logo {
+  padding: 10px;
 }
 
 /* Styles for sub-pages */
