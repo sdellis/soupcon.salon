@@ -17,7 +17,7 @@ approved: true
 
 6:30pm  **The Swiss Guard -** *Lyrics that make you think. Music that makes you move.*
 
-7:30pm  **Christina Ward -** *Ethereal mermaid, shreds guitar with legendary backing band.* 
+7:30pm  **Christina Ward -** *Ethereal mermaid shreds guitar with legendary backing band.* 
 
 **\-﻿----**
 
