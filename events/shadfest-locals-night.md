@@ -4,6 +4,8 @@ performer: TBA
 abstract: >
   Friday, April 19th from 5:30-8:30pm in the Parking Lot across from Under the
   Moon on N. Union St. 
+
+  A collaboration with Soupçon Salon and The Greater Lambertville Chamber of Commerce. 
 image: /uploads/shadfest-locals-night2.jpg
 author: Shaun Ellis
 date: 2024-04-19T21:30:31.894Z
@@ -29,3 +31,5 @@ Friday, April 19th from 5:30-8:30pm 
 The Parking Lot across from Under the Moon on N. Union St.
 
 ![Shadfest Locals Night Poster](/uploads/shadfest-locals-night2.jpg "Shadfest Locals Night Poster")
+
+*A collaboration with Soupçon Salon and The Greater Lambertville Chamber of Commerce.*
