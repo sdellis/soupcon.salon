@@ -25,6 +25,6 @@ approved: true
 
 **Where?** The Parking Lot across from Under the Moon on N. Union St.
 
-![Shadfest Locals Night Poster](/uploads/shadfest-locals-night2.jpg "Shadfest Locals Night Poster")
+![Shadfest Locals Night Poster](/uploads/shadfest-locals-night.jpeg "Shadfest Locals Night Poster")
 
 *A collaboration with Soupçon Salon and The Greater Lambertville Chamber of Commerce.*
